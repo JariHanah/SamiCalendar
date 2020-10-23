@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="back_center.png2" type="multi"  />
+    <image name="back_left.png2" type="multi"  />
+    <image name="back_right.png2" type="multi"  />
+    <image name="Button.borderBottom_1.png2" type="multi"  />
+    <image name="Button.borderBottomL_1.png2" type="multi"  />
+    <image name="Button.borderBottomR_1.png2" type="multi"  />
+    <image name="Button.borderCenter_1.png2" type="multi"  />
+    <image name="Button.borderLeft_1.png2" type="multi"  />
+    <image name="Button.borderRight_1.png2" type="multi"  />
+    <image name="Button.borderTop_1.png2" type="multi"  />
+    <image name="Button.borderTopL_1.png2" type="multi"  />
+    <image name="Button.borderTopR_1.png2" type="multi"  />
+    <image name="Button.press#borderBottom_1.png5" type="multi"  />
+    <image name="Button.press#borderBottomL_1.png5" type="multi"  />
+    <image name="Button.press#borderBottomR_1.png5" type="multi"  />
+    <image name="Button.press#borderCenter_1.png5" type="multi"  />
+    <image name="Button.press#borderLeft_1.png5" type="multi"  />
+    <image name="Button.press#borderRight_1.png5" type="multi"  />
+    <image name="Button.press#borderTop_1.png5" type="multi"  />
+    <image name="Button.press#borderTopL_1.png5" type="multi"  />
+    <image name="Button.press#borderTopR_1.png5" type="multi"  />
+    <image name="CalcButton.borderBottom_1.png" type="multi"  />
+    <image name="CalcButton.borderBottomL_1.png" type="multi"  />
+    <image name="CalcButton.borderBottomR_1.png" type="multi"  />
+    <image name="CalcButton.borderCenter_1.png" type="multi"  />
+    <image name="CalcButton.borderLeft_1.png" type="multi"  />
+    <image name="CalcButton.borderRight_1.png" type="multi"  />
+    <image name="CalcButton.borderTop_1.png" type="multi"  />
+    <image name="CalcButton.borderTopL_1.png" type="multi"  />
+    <image name="CalcButton.borderTopR_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottom_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="CalcButton.press#borderCenter_1.png" type="multi"  />
+    <image name="CalcButton.press#borderLeft_1.png" type="multi"  />
+    <image name="CalcButton.press#borderRight_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTop_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTopL_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTopR_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottom_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottomL_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottomR_1.png" type="multi"  />
+    <image name="CalculatorInput.borderCenter_1.png" type="multi"  />
+    <image name="CalculatorInput.borderLeft_1.png" type="multi"  />
+    <image name="CalculatorInput.borderRight_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTop_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTopL_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTopR_1.png" type="multi"  />
+    <image name="calendar_arrow_left@2x.png" type="multi"  />
+    <image name="calendar_arrow_right@2x.png" type="multi"  />
+    <image name="CalendarDate.borderBottom_2.png" type="multi"  />
+    <image name="CalendarDate.borderBottomL_2.png" type="multi"  />
+    <image name="CalendarDate.borderBottomR_2.png" type="multi"  />
+    <image name="CalendarDate.borderCenter_2.png" type="multi"  />
+    <image name="CalendarDate.borderLeft_2.png" type="multi"  />
+    <image name="CalendarDate.borderRight_2.png" type="multi"  />
+    <image name="CalendarDate.borderTop_2.png" type="multi"  />
+    <image name="CalendarDate.borderTopL_2.png" type="multi"  />
+    <image name="CalendarDate.borderTopR_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottom_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottomL_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottomR_2.png" type="multi"  />
+    <image name="CalendarDay.borderCenter_2.png" type="multi"  />
+    <image name="CalendarDay.borderLeft_2.png" type="multi"  />
+    <image name="CalendarDay.borderRight_2.png" type="multi"  />
+    <image name="CalendarDay.borderTop_2.png" type="multi"  />
+    <image name="CalendarDay.borderTopL_2.png" type="multi"  />
+    <image name="CalendarDay.borderTopR_2.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottom_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottomL_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottomR_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderCenter_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderLeft_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderRight_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTop_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTopL_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTopR_1.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottom_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottomL_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottomR_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderCenter_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderLeft_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderRight_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTop_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTopL_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTopR_3.png" type="multi"  />
+    <image name="ClearButton.borderBottom_1.png" type="multi"  />
+    <image name="ClearButton.borderBottomL_1.png" type="multi"  />
+    <image name="ClearButton.borderBottomR_1.png" type="multi"  />
+    <image name="ClearButton.borderCenter_1.png" type="multi"  />
+    <image name="ClearButton.borderLeft_1.png" type="multi"  />
+    <image name="ClearButton.borderRight_1.png" type="multi"  />
+    <image name="ClearButton.borderTop_1.png" type="multi"  />
+    <image name="ClearButton.borderTopL_1.png" type="multi"  />
+    <image name="ClearButton.borderTopR_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottom_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="ClearButton.press#borderCenter_1.png" type="multi"  />
+    <image name="ClearButton.press#borderLeft_1.png" type="multi"  />
+    <image name="ClearButton.press#borderRight_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTop_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTopL_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTopR_1.png" type="multi"  />
+    <image name="command_center.png" type="multi"  />
+    <image name="command_left.png" type="multi"  />
+    <image name="command_right.png" type="multi"  />
+    <l10n name="l10n">
+        <lang name="ar">
+            <entry key="mokaddam" value="&#x627;&#x644;&#x645;&#x642;&#x62f;&#x645;" />
+            <entry key="akb" value="&#x623;&#x62e;&#x628;" />
+            <entry key="z04s" value="&#x62d;&#x648;&#x62a;" />
+            <entry key="alreadyPurchased" value="&#x627;&#x644;&#x645;&#x643;&#x648;&#x646; &#x645;&#x636;&#x627;&#x641;" />
+            <entry key="sawrshort" value="&#x62b;&#x648;&#x631;" />
+            <entry key="iyar" value="&#x623;&#x64a;&#x627;&#x631;" />
+            <entry key="com.alhanah.sami.omari.15.desc" value="&#x645;&#x643;&#x648;&#x646; &#x64a;&#x633;&#x627;&#x639;&#x62f;&#x643; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; &#x648;&#x623;&#x64a; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x644;&#x62f;&#x64a;&#x643;&#x60c; &#x645;&#x639; &#x627;&#x644;&#x623;&#x62e;&#x630; &#x641;&#x64a; &#x627;&#x644;&#x627;&#x639;&#x62a;&#x628;&#x627;&#x631; &#x62c;&#x62f;&#x627;&#x648;&#x644; (&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x643;&#x648;&#x64a;&#x62a; &#x623;&#x648; &#x646;&#x638;&#x627;&#x645; &#x645;&#x627;&#x64a;&#x643;&#x631;&#x648;&#x633;&#x648;&#x641;&#x62a;) &#x627;&#x644;&#x645;&#x633;&#x62a;&#x62e;&#x62f;&#x645; &#x641;&#x64a; &#x628;&#x639;&#x636; &#x628;&#x631;&#x627;&#x645;&#x62c; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x641;&#x64a; &#x636;&#x628;&#x637; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; &#x628; 355 &#x64a;&#x648;&#x645;." />
+            <entry key="com.alhanah.sami.umalqura1423" value="&#x623;&#x645; &#x627;&#x644;&#x642;&#x631;&#x649;" />
+            <entry key="zbr" value="&#x632;&#x628;&#x631;" />
+            <entry key="shartain" value="&#x627;&#x644;&#x634;&#x631;&#x637;&#x64a;&#x646;" />
+            <entry key="qawsshort" value="&#x642;&#x648;&#x633;" />
+            <entry key="zbn" value="&#x632;&#x628;&#x646;" />
+            <entry key="zbh" value="&#x630;&#x628;&#x62d;" />
+            <entry key="alkalb" value="&#x627;&#x644;&#x642;&#x644;&#x628;" />
+            <entry key="z03s" value="&#x62f;&#x644;&#x648;" />
+            <entry key="sholah" value="&#x627;&#x644;&#x634;&#x648;&#x644;&#x629;" />
+            <entry key="com.alhanah.sami.ad.name" value="&#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a;" />
+            <entry key="winter" value="&#x627;&#x644;&#x634;&#x62a;&#x627;&#x621;" />
+            <entry key="avshort" value="&#x623;&#x628;" />
+            <entry key="adar" value="&#x623;&#x62f;&#x627;&#x631;" />
+            <entry key="com.alhanah.jalili.ir.name" value="&#x627;&#x644;&#x62c;&#x644;&#x627;&#x644;&#x64a; &#x627;&#x644;&#x634;&#x645;&#x633;&#x64a; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="alharam" value="&#x627;&#x644;&#x62d;&#x631;&#x627;&#x645;" />
+            <entry key="hideCalendar" value="&#x625;&#x62e;&#x641;&#x627;&#x621;" />
+            <entry key="com.alhanah.sami.ad.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ADCalendarDiskURL" />
+            <entry key="com.alhanah.sami.solar128.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#AD128CalendarDiscURL" />
+            <entry key="com.alhanah.sami.omari.indian.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="com.alhanah.sami.greg.name" value="&#x627;&#x644;&#x62c;&#x631;&#x64a;&#x62c;&#x648;&#x631;&#x64a; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a;" />
+            <entry key="thankspurchase" value="&#x634;&#x643;&#x631;&#x627; &#x639;&#x644;&#x649; &#x634;&#x631;&#x627;&#x621; " />
+            <entry key="com.alhanah.sami.omari.habash.extra" value="&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x647;&#x62c;&#x631;&#x64a; &#x64a;&#x639;&#x62a;&#x645;&#x62f; &#x643;&#x628;&#x633; 11 &#x633;&#x646;&#x629; &#x645;&#x639;&#x64a;&#x646;&#x629; &#x641;&#x64a; &#x643;&#x644; 30 &#x633;&#x646;&#x629;&#x60c; &#x644;&#x62a;&#x643;&#x648;&#x646; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; 355 &#x64a;&#x648;&#x645;&#x627; &#x628;&#x62f;&#x644;&#x627; &#x645;&#x646; 354. &#x623;&#x645;&#x627; &#x627;&#x644;&#x634;&#x647;&#x648;&#x631;&#x60c; &#x641;&#x645;&#x62d;&#x631;&#x645; 30 &#x648;&#x635;&#x641;&#x631; 29 &#x648;&#x647;&#x643;&#x630;&#x627; &#x641;&#x64a; &#x643;&#x644; &#x633;&#x646;&#x629;&#x60c; &#x645;&#x627; &#x639;&#x62f;&#x627; &#x630;&#x648; &#x627;&#x644;&#x62d;&#x62c;&#x629; &#x64a;&#x643;&#x648;&#x646; 30 &#x64a;&#x648;&#x645;&#x627; &#x641;&#x64a; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x643;&#x628;&#x64a;&#x633;&#x629;." />
+            <entry key="com.alhanah.sami.sami.fixed.desc" value="&#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x623;&#x643;&#x62b;&#x631; &#x637;&#x644;&#x628;&#x627; &#x644;&#x645;&#x639;&#x631;&#x641;&#x629; &#x627;&#x644;&#x645;&#x648;&#x627;&#x633;&#x645; &#x627;&#x644;&#x639;&#x631;&#x628;&#x64a;&#x629; &#x648;&#x627;&#x644;&#x62f;&#x64a;&#x646;&#x64a;&#x629;&#x60c; &#x647;&#x630;&#x647; &#x627;&#x644;&#x628;&#x627;&#x642;&#x629; &#x62a;&#x648;&#x641;&#x631; &#x644;&#x643; &#x62e;&#x62f;&#x645;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x627;&#x644;&#x645;&#x627;&#x636;&#x64a;&#x629; &#x623;&#x648; &#x627;&#x644;&#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x629; &#x648;&#x628;&#x62f;&#x648;&#x646; &#x62d;&#x62f;&#x648;&#x62f;" />
+            <entry key="thrshort" value="&#x630;&#x631;&#x639;" />
+            <entry key="jbh" value="&#x62c;&#x628;&#x647;" />
+            <entry key="mayshort" value="&#x645;&#x627;&#x64a;&#x648;" />
+            <entry key="z02s" value="&#x62c;&#x62f;&#x64a;" />
+            <entry key="tmz" value="&#x62a;&#x645;&#x632;" />
+            <entry key="z13" value="&#x627;&#x644;&#x62d;&#x648;&#x627;&#x621;" />
+            <entry key="z12" value="&#x627;&#x644;&#x639;&#x642;&#x631;&#x628;" />
+            <entry key="z11" value="&#x627;&#x644;&#x645;&#x64a;&#x632;&#x627;&#x646;" />
+            <entry key="z10" value="&#x627;&#x644;&#x633;&#x646;&#x628;&#x644;&#x629;" />
+            <entry key="daydiff" value="&#x641;&#x631;&#x642; &#x627;&#x644;&#x623;&#x64a;&#x627;&#x645;" />
+            <entry key="Small Leap Year Short" value="&#x643;&#x628;&#x633;" />
+            <entry key="shortSunday" value="&#x623;&#x62d;&#x62f;" />
+            <entry key="rajabrabiah" value="&#x631;&#x62c;&#x628; &#x631;&#x628;&#x64a;&#x639;&#x629;" />
+            <entry key="hnh" value="&#x647;&#x646;&#x639;" />
+            <entry key="Nasi Leap Year" value="&#x643;&#x628;&#x64a;&#x633;&#x629;" />
+            <entry key="com.alhanah.sami.metonicview.name" value="&#x627;&#x644;&#x648;&#x627;&#x62c;&#x647;&#x629; &#x627;&#x644;&#x645;&#x64a;&#x62a;&#x648;&#x646;&#x64a;&#x629;" />
+            <entry key="jan" value="&#x646;&#x627;&#x64a;&#x631;" />
+            <entry key="z09" value="&#x627;&#x644;&#x623;&#x633;&#x62f;" />
+            <entry key="z08" value="&#x633;&#x631;&#x637;&#x627;&#x646;" />
+            <entry key="z07" value="&#x627;&#x644;&#x62c;&#x648;&#x632;&#x627;&#x621;" />
+            <entry key="z06" value="&#x627;&#x644;&#x62b;&#x648;&#x631;" />
+            <entry key="rabei2" value="&#x631;&#x628;&#x64a;&#x639; &#x627;&#x644;&#x62b;&#x627;&#x646;&#x64a;" />
+            <entry key="z05" value="&#x627;&#x644;&#x62d;&#x645;&#x644;" />
+            <entry key="rabei1" value="&#x631;&#x628;&#x64a;&#x639; &#x627;&#x644;&#x623;&#x648;&#x644;" />
+            <entry key="z04" value="&#x627;&#x644;&#x62d;&#x648;&#x62a;" />
+            <entry key="z01s" value="&#x642;&#x648;&#x633;" />
+            <entry key="rasha" value="&#x627;&#x644;&#x631;&#x634;&#x627;&#x621;" />
+            <entry key="z03" value="&#x627;&#x644;&#x62f;&#x644;&#x648;" />
+            <entry key="com.alhanah.sami.hebrew.name" value="&#x627;&#x644;&#x639;&#x628;&#x631;&#x64a;" />
+            <entry key="z02" value="&#x627;&#x644;&#x62c;&#x62f;&#x64a;" />
+            <entry key="z01" value="&#x627;&#x644;&#x642;&#x648;&#x633;" />
+            <entry key="rb2" value="&#x631;&#x628;&#x639;2" />
+            <entry key="rb1" value="&#x631;&#x628;&#x639;1" />
+            <entry key="jadi" value="&#x62c;&#x62f;&#x64a;" />
+            <entry key="version" value="&#x627;&#x644;&#x625;&#x635;&#x62f;&#x627;&#x631;" />
+            <entry key="com.alhanah.sami.omari.16.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="Thursday" value="&#x627;&#x644;&#x62e;&#x645;&#x64a;&#x633;" />
+            <entry key="nathrah" value="&#x627;&#x644;&#x646;&#x62b;&#x631;&#x629;" />
+            <entry key="com.alhanah.sami.sami.name" value="&#x627;&#x644;&#x633;&#x627;&#x645;&#x64a;" />
+            <entry key="srf" value="&#x635;&#x631;&#x641;" />
+            <entry key="shawwal" value="&#x634;&#x648;&#x627;&#x644;" />
+            <entry key="nasi" value="&#x627;&#x644;&#x646;&#x633;&#x64a;&#x621;" />
+            <entry key="addcalendar" value="&#x625;&#x636;&#x627;&#x641;&#x629; &#x62a;&#x642;&#x648;&#x64a;&#x645;" />
+            <entry key="missingLocationExtra" value="&#x64a;&#x62a;&#x637;&#x644;&#x628; &#x627;&#x644;&#x62a;&#x62d;&#x62f;&#x64a;&#x62b;" />
+            <entry key="com.alhanah.sami.yearview.name" value="&#x627;&#x644;&#x648;&#x627;&#x62c;&#x647;&#x629; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x634;&#x647;&#x631;&#x64a;&#x629;" />
+            <entry key="moonMonth" value="&#x647;&#x644;&#x627;&#x644;" />
+            <entry key="Z13" value="&#x632;13&#x647;" />
+            <entry key="welcome" value="&#x62d;&#x627;&#x646;&#x629; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645;" />
+            <entry key="menu" value="&#x642;&#x627;&#x626;&#x645;&#x629;" />
+            <entry key="com.alhanah.sami.omari.16.extra" value="&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x647;&#x62c;&#x631;&#x64a; &#x64a;&#x639;&#x62a;&#x645;&#x62f; &#x643;&#x628;&#x633; 11 &#x633;&#x646;&#x629; &#x645;&#x639;&#x64a;&#x646;&#x629; &#x641;&#x64a; &#x643;&#x644; 30 &#x633;&#x646;&#x629;&#x60c; &#x644;&#x62a;&#x643;&#x648;&#x646; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; 355 &#x64a;&#x648;&#x645;&#x627; &#x628;&#x62f;&#x644;&#x627; &#x645;&#x646; 354. &#x623;&#x645;&#x627; &#x627;&#x644;&#x634;&#x647;&#x648;&#x631;&#x60c; &#x641;&#x645;&#x62d;&#x631;&#x645; 30 &#x648;&#x635;&#x641;&#x631; 29 &#x648;&#x647;&#x643;&#x630;&#x627; &#x641;&#x64a; &#x643;&#x644; &#x633;&#x646;&#x629;&#x60c; &#x645;&#x627; &#x639;&#x62f;&#x627; &#x630;&#x648; &#x627;&#x644;&#x62d;&#x62c;&#x629; &#x64a;&#x643;&#x648;&#x646; 30 &#x64a;&#x648;&#x645;&#x627; &#x641;&#x64a; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x643;&#x628;&#x64a;&#x633;&#x629;." />
+            <entry key="com.alhanah.sami.julian" value="&#x64a;&#x648;&#x644;&#x64a;&#x627;&#x646;&#x64a; &#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a;" />
+            <entry key="Wednesday" value="&#x627;&#x644;&#x623;&#x631;&#x628;&#x639;&#x627;&#x621;" />
+            <entry key="defaultCity?" value="&#x627;&#x62e;&#x62a;&#x64a;&#x627;&#x631; &#x645;&#x62f;&#x64a;&#x646;&#x629; " />
+            <entry key="missingLocation" value="&#x627;&#x644;&#x645;&#x648;&#x642;&#x639;" />
+            <entry key="shortTuesday" value="&#x62b;&#x644;&#x62b;" />
+            <entry key="spring" value="&#x627;&#x644;&#x631;&#x628;&#x64a;&#x639;" />
+            <entry key="com.alhanah.sami.ad.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a; &#x627;&#x644;&#x634;&#x627;&#x645;&#x644; &#x648;&#x627;&#x644;&#x630;&#x64a; &#x64a;&#x623;&#x62e;&#x630; &#x628;&#x627;&#x644;&#x627;&#x639;&#x62a;&#x628;&#x627;&#x631; &#x645;&#x627; &#x62d;&#x635;&#x644; &#x645;&#x646; &#x62a;&#x62d;&#x62f;&#x64a;&#x62b; &#x641;&#x64a; &#x639;&#x627;&#x645; 1582&#x60c; &#x648;&#x64a;&#x634;&#x645;&#x644; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="com.alhanah.sami.greg.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#GregorianCalendarDiskURL" />
+            <entry key="com.alhanah.sami.omari.15.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="com.alhanah.jalili.ir.desc" value="&#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x62c;&#x644;&#x627;&#x644;&#x64a; &#x627;&#x644;&#x634;&#x645;&#x633;&#x64a; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;&#x60c; &#x627;&#x644;&#x623;&#x643;&#x62b;&#x631; &#x62f;&#x642;&#x629; &#x641;&#x64a; &#x62a;&#x62d;&#x62f;&#x64a;&#x62f; &#x627;&#x644;&#x627;&#x639;&#x62a;&#x62f;&#x627;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x629;&#x645;&#x633;&#x62a;&#x62e;&#x62f;&#x645; &#x645;&#x646; &#x642;&#x628;&#x644; &#x639;&#x62f;&#x629; &#x62f;&#x648;&#x644; &#x645;&#x646; &#x628;&#x64a;&#x646;&#x647;&#x627; &#x625;&#x64a;&#x631;&#x627;&#x646; &#x648;&#x628;&#x627;&#x643;&#x633;&#x62a;&#x627;&#x646; &#x648;&#x623;&#x641;&#x63a;&#x627;&#x646;&#x633;&#x62a;&#x627;&#x646;. &#x648;&#x64a;&#x639;&#x62f; &#x645;&#x646; &#x623;&#x642;&#x62f;&#x645; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645;." />
+            <entry key="climitReached" value="&#x627;&#x644;&#x62d;&#x62f; &#x627;&#x644;&#x623;&#x639;&#x644;&#x649;" />
+            <entry key="com.alhanah.sami.qazwini" value="&#x645;&#x62d;&#x645;&#x62f;&#x64a; &#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="Calendar" value="&#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645;" />
+            <entry key="jamad2" value="&#x62c;&#x645;&#x627;&#x62f; &#x627;&#x644;&#x62b;&#x627;&#x646;&#x64a;" />
+            <entry key="jamad1" value="&#x62c;&#x645;&#x627;&#x62f; &#x627;&#x644;&#x623;&#x648;&#x644;" />
+            <entry key="spt" value="&#x633;&#x628;&#x62a;&#x645;" />
+            <entry key="com.alhanah.sami.greg.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x62c;&#x631;&#x64a;&#x62c;&#x648;&#x631;&#x64a; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="BH" value="&#x647;&#x628;" />
+            <entry key="blackMonth" value="&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646;" />
+            <entry key="Julian Year" value="&#x633;&#x646;&#x629; &#x64a;&#x648;&#x644;&#x64a;&#x627;&#x646;&#x64a;&#x629;" />
+            <entry key="qdh" value="&#x642;&#x639;&#x62f;" />
+            <entry key="mizan" value="&#x645;&#x64a;&#x632;&#x627;&#x646;" />
+            <entry key="com.alhanah.sami.qazwini.fajr.name" value="&#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a;" />
+            <entry key="saratan" value="&#x633;&#x631;&#x637;&#x627;&#x646;" />
+            <entry key="com.alhanah.sami.sami.fixed" value="&#x633;&#x627;&#x645;&#x64a; &#x647;&#x62c;&#x631;&#x64a; &#x642;" />
+            <entry key="com.alhanah.sami.qazwini.fajr.short" value="&#x647;&#x642;" />
+            <entry key="notpurchased" value="&#x639;&#x631;&#x636;" />
+            <entry key="safar2" value="&#x635;&#x641;&#x631; &#x62b;&#x627;&#x646;&#x64a;" />
+            <entry key="com.alhanah.sami.metonicview.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x648;&#x627;&#x62c;&#x647;&#x629; &#x627;&#x644;&#x639;&#x631;&#x636; &#x627;&#x644;&#x645;&#x64a;&#x62a;&#x648;&#x646;&#x64a; &#x644;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x62e;&#x62a;&#x644;&#x641;&#x629; &#x648;&#x627;&#x644;&#x642;&#x62f;&#x631;&#x629; &#x639;&#x644;&#x649; &#x627;&#x644;&#x645;&#x642;&#x627;&#x631;&#x646;&#x629; &#x628;&#x64a;&#x646;&#x647;&#x627; &#x628;&#x633;&#x647;&#x648;&#x644;&#x629;&#x60c; &#x647;&#x630;&#x647; &#x627;&#x644;&#x648;&#x627;&#x62c;&#x647;&#x629; &#x633;&#x62a;&#x638;&#x647;&#x631; &#x628;&#x633;&#x647;&#x648;&#x644;&#x629; &#x639;&#x646; &#x646;&#x642;&#x631; &#x627;&#x644;&#x639;&#x62f;&#x633;&#x629; &#x627;&#x644;&#x645;&#x643;&#x628;&#x631;&#x629;." />
+            <entry key="AD" value="&#x645;" />
+            <entry key="hamalshort" value="&#x62d;&#x645;&#x644;" />
+            <entry key="haram13" value="&#x627;&#x644;&#x62d;&#x631;&#x627;&#x645;13" />
+            <entry key="asad" value="&#x623;&#x633;&#x62f;" />
+            <entry key="showpacks" value="&#x62a;&#x635;&#x641;&#x62d; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645;" />
+            <entry key="com.alhanah.sami.hebrew.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x639;&#x628;&#x631;&#x64a; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x62e;&#x644;&#x642; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="november" value="&#x646;&#x648;&#x641;&#x645;&#x628;&#x631;" />
+            <entry key="hijri16short" value="&#x647;&#x639;16" />
+            <entry key="thoqidah" value="&#x630;&#x648; &#x627;&#x644;&#x642;&#x639;&#x62f;&#x629;" />
+            <entry key="thr" value="&#x62b;&#x631;&#x64a;&#x627;" />
+            <entry key="showCalendar" value="&#x625;&#x636;&#x627;&#x641;&#x629;" />
+            <entry key="Teusday" value="&#x627;&#x644;&#x62b;&#x644;&#x627;&#x62b;&#x627;&#x621;" />
+            <entry key="VersionN" value="1.9" />
+            <entry key="basketPurcahsed" value="&#x645;&#x644;&#x62d;&#x642;" />
+            <entry key="jun" value="&#x64a;&#x646;&#x64a;&#x648;" />
+            <entry key="jul" value="&#x64a;&#x644;&#x64a;&#x648;" />
+            <entry key="com.alhanah.sami.sami.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x633;&#x627;&#x645;&#x64a; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="buy" value="&#x634;&#x631;&#x627;&#x621;" />
+            <entry key="com.alhanah.sami.hebrew.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#HebrewCalendarDiskURL" />
+            <entry key="dalwshort" value="&#x62f;&#x644;&#x648;" />
+            <entry key="asadshort" value="&#x623;&#x633;&#x62f;" />
+            <entry key="alawaa" value="&#x627;&#x644;&#x639;&#x648;&#x627;&#x621;" />
+            <entry key="com.alhanah.sami.yearview.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x648;&#x627;&#x62c;&#x647;&#x629; &#x627;&#x644;&#x633;&#x646;&#x629; &#x644;&#x645;&#x634;&#x627;&#x647;&#x62f;&#x629; &#x62c;&#x645;&#x64a;&#x639; &#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62a; &#x627;&#x644;&#x633;&#x646;&#x629; &#x641;&#x64a; &#x635;&#x641;&#x62d;&#x629; &#x648;&#x627;&#x62d;&#x62f;&#x629;." />
+            <entry key="com.alhanah.sami.umalqura1423.name" value="&#x623;&#x645; &#x627;&#x644;&#x642;&#x631;&#x649;" />
+            <entry key="may" value="&#x645;&#x627;&#x64a;&#x648;" />
+            <entry key="com.alhanah.sami.qazwini.fajr" value="&#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a;" />
+            <entry key="nth" value="&#x646;&#x62b;&#x631;" />
+            <entry key="com.alhanah.sami.sami.fixed.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#SamiCalendarDiscURL" />
+            <entry key="mar" value="&#x645;&#x631;&#x633;" />
+            <entry key="shortFriday" value="&#x62c;&#x645;&#x639;" />
+            <entry key="smk" value="&#x633;&#x645;&#x643;" />
+            <entry key="Modhar Leap Year" value="&#x643;&#x628;&#x633; &#x645;&#x636;&#x631;" />
+            <entry key="ok" value="&#x645;&#x648;&#x627;&#x641;&#x642;" />
+            <entry key="shortMonday" value="&#x627;&#x62b;&#x646;" />
+            <entry key="com.alhanah.sami.omari" value="&#x639;&#x645;&#x631;&#x64a; &#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="edit" value="&#x62a;&#x639;&#x62f;&#x64a;&#x644;" />
+            <entry key="lunershort" value="&#x647;&#x644;&#x644;" />
+            <entry key="btn" value="&#x628;&#x637;&#x646;" />
+            <entry key="ramadhan" value="&#x631;&#x645;&#x636;&#x627;&#x646;" />
+            <entry key="rsh" value="&#x631;&#x634;&#x627;" />
+            <entry key="com.alhanah.sami.zodiac" value="&#x628;&#x631;&#x62c;&#x64a;" />
+            <entry key="nsn" value="&#x646;&#x633;&#x646;" />
+            <entry key="aqrab" value="&#x639;&#x642;&#x631;&#x628;" />
+            <entry key="WH" value="&#x647;&#x648;" />
+            <entry key="nsi" value="&#x646;&#x633;&#x626;" />
+            <entry key="hijrihabashshort" value="&#x647;&#x639;&#x634;" />
+            <entry key="hgh" value="&#x647;&#x642;&#x639;" />
+            <entry key="ikleel" value="&#x627;&#x644;&#x623;&#x643;&#x644;&#x64a;&#x644;" />
+            <entry key="shortWednesday" value="&#x631;&#x628;&#x639;" />
+            <entry key="iyr" value="&#x623;&#x64a;&#x627;&#x631;" />
+            <entry key="com.alhanah.sami.qazwini.fajr.desc" value="&#x627;&#x644;&#x642;&#x62f;&#x631;&#x629; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x645;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a; &#x644;&#x623;&#x64a; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x622;&#x62e;&#x631; &#x628;&#x645;&#x62c;&#x627;&#x644; &#x627;&#x644;&#x632;&#x645;&#x646; &#x641;&#x64a; &#x627;&#x644;&#x62c;&#x648;&#x627;&#x644;" />
+            <entry key="tishrei" value="&#x62a;&#x64a;&#x634;&#x631;&#x64a;" />
+            <entry key="rajabmodhar" value="&#x631;&#x62c;&#x628; &#x645;&#x636;&#x631;" />
+            <entry key="summer" value="&#x627;&#x644;&#x635;&#x64a;&#x641;" />
+            <entry key="Zodiac Year" value="&#x628;&#x631;&#x62c;&#x64a;&#x629;" />
+            <entry key="august" value="&#x623;&#x63a;&#x633;&#x637;&#x633;" />
+            <entry key="akhbiyah" value="&#x633;&#x639;&#x62f; &#x627;&#x644;&#x623;&#x62e;&#x628;&#x64a;&#x629;" />
+            <entry key="showColumn" value="&#x625;&#x638;&#x647;&#x627;&#x631;" />
+            <entry key="com.alhanah.sami.wsmi.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#WasmiCalendarDiscURL" />
+            <entry key="com.alhanah.sami.solarstations.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#SolarStationsDiskURL" />
+            <entry key="com.alhanah.sami.sami" value="&#x633;&#x627;&#x645;&#x64a; &#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="dateconversion" value="&#x645;&#x62d;&#x648;&#x644; &#x627;&#x644;&#x62a;&#x627;&#x631;&#x64a;&#x62e;" />
+            <entry key="hijri15short" value="&#x647;&#x639;15" />
+            <entry key="klb" value="&#x642;&#x644;&#x628;" />
+            <entry key="minutesmall" value="&#x62f;" />
+            <entry key="calendarLimitReachedMessage" value="&#x647;&#x630;&#x647; &#x62d;&#x62f;&#x648;&#x62f; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x641;&#x64a; &#x647;&#x630;&#x647; &#x627;&#x644;&#x628;&#x627;&#x642;&#x629;. &#x62a;&#x633;&#x62a;&#x637;&#x64a;&#x639; &#x641;&#x62a;&#x62d; &#x645;&#x62c;&#x627;&#x644; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x628;&#x633;&#x647;&#x648;&#x644;&#x629;." />
+            <entry key="com.alhanah.sami.newmoon.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="thiraa" value="&#x627;&#x644;&#x630;&#x631;&#x627;&#x639;" />
+            <entry key="shortThursday" value="&#x62e;&#x645;&#x633;" />
+            <entry key="com.alhanah.sami.julian.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="sonbolashort" value="&#x633;&#x628;&#x644;" />
+            <entry key="select" value="&#x627;&#x62e;&#x62a;&#x64a;&#x627;&#x631;" />
+            <entry key="Date" value="&#x627;&#x644;&#x62a;&#x627;&#x631;&#x64a;&#x62e;" />
+            <entry key="adr2" value="&#x623;&#x62f;2" />
+            <entry key="com.alhanah.sami.sami.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#SamiCalendarDiscURL" />
+            <entry key="com.alhanah.sami.wsmi.name" value="&#x627;&#x644;&#x648;&#x633;&#x645;&#x64a; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="com.alhanah.sami.omari.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#OmariCalendarDiskURL" />
+            <entry key="qaws" value="&#x642;&#x648;&#x633;" />
+            <entry key="remove" value="&#x625;&#x62e;&#x641;&#x627;&#x621;" />
+            <entry key="switchMusic" value="&#x625;&#x64a;&#x642;&#x627;&#x641;\&#x62a;&#x634;&#x63a;&#x64a;&#x644; &#x644;&#x62d;&#x646; &#x627;&#x644;&#x632;&#x645;&#x646;" />
+            <entry key="help" value="&#x645;&#x633;&#x627;&#x639;&#x62f;&#x629;" />
+            <entry key="jadishort" value="&#x62c;&#x62f;&#x64a;" />
+            <entry key="dec" value="&#x62f;&#x64a;&#x633;&#x645;" />
+            <entry key="moonMonthShort" value="&#x647;&#x644;&#x644;" />
+            <entry key="baldah" value="&#x627;&#x644;&#x628;&#x644;&#x62f;&#x629;" />
+            <entry key="thuraya" value="&#x627;&#x644;&#x62b;&#x631;&#x64a;&#x627;&#x621;" />
+            <entry key="Friday" value="&#x627;&#x644;&#x62c;&#x645;&#x639;&#x629;" />
+            <entry key="com.alhanah.sami.umalqura1423.desc" value="&#x62e;&#x62f;&#x645;&#x629; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x623;&#x645; &#x627;&#x644;&#x642;&#x631;&#x649; &#x639;&#x644;&#x649; &#x645;&#x62f;&#x649; &#x642;&#x62f;&#x631;&#x629; &#x627;&#x644;&#x62c;&#x648;&#x627;&#x644; &#x633;&#x648;&#x627;&#x621; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x623;&#x648; &#x628;&#x639;&#x62f; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646;." />
+            <entry key="purchases" value="&#x645;&#x643;&#x648;&#x646;&#x627;&#x62a; &#x625;&#x636;&#x627;&#x641;&#x64a;&#x629;" />
+            <entry key="bolaa" value="&#x633;&#x639;&#x62f; &#x628;&#x644;&#x639;" />
+            <entry key="com.alhanah.sami.qazwini.name" value="&#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="com.alhanah.sami.wsmi" value="&#x648;&#x633;&#x645;&#x64a; &#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="taraf" value="&#x627;&#x644;&#x637;&#x631;&#x641;" />
+            <entry key="com.alhanah.sami.omari.indian.extra" value="&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x647;&#x62c;&#x631;&#x64a; &#x64a;&#x639;&#x62a;&#x645;&#x62f; &#x643;&#x628;&#x633; 11 &#x633;&#x646;&#x629; &#x645;&#x639;&#x64a;&#x646;&#x629; &#x641;&#x64a; &#x643;&#x644; 30 &#x633;&#x646;&#x629;&#x60c; &#x644;&#x62a;&#x643;&#x648;&#x646; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; 355 &#x64a;&#x648;&#x645;&#x627; &#x628;&#x62f;&#x644;&#x627; &#x645;&#x646; 354. &#x623;&#x645;&#x627; &#x627;&#x644;&#x634;&#x647;&#x648;&#x631;&#x60c; &#x641;&#x645;&#x62d;&#x631;&#x645; 30 &#x648;&#x635;&#x641;&#x631; 29 &#x648;&#x647;&#x643;&#x630;&#x627; &#x641;&#x64a; &#x643;&#x644; &#x633;&#x646;&#x629;&#x60c; &#x645;&#x627; &#x639;&#x62f;&#x627; &#x630;&#x648; &#x627;&#x644;&#x62d;&#x62c;&#x629; &#x64a;&#x643;&#x648;&#x646; 30 &#x64a;&#x648;&#x645;&#x627; &#x641;&#x64a; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x643;&#x628;&#x64a;&#x633;&#x629;." />
+            <entry key="awa" value="&#x639;&#x648;&#x627;" />
+            <entry key="purchased" value="&#x645;&#x636;&#x627;&#x641;&#x629;" />
+            <entry key="sarfah" value="&#x627;&#x644;&#x635;&#x631;&#x641;&#x629;" />
+            <entry key="com.alhanah.sami.qazwini.fajr.extra" value="&#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a;  &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x64a;&#x643;&#x628;&#x633; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x64a;&#x633;&#x62a;&#x62e;&#x62f;&#x645; &#x631;&#x635;&#x62f; &#x627;&#x644;&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646; &#x645;&#x639; &#x628;&#x632;&#x648;&#x63a; &#x627;&#x644;&#x641;&#x62c;&#x631; &#x644;&#x62a;&#x62c;&#x62f;&#x64a;&#x62f; &#x628;&#x62f;&#x627;&#x64a;&#x629; &#x627;&#x644;&#x634;&#x647;&#x631; &#x627;&#x644;&#x642;&#x645;&#x631;&#x64a;." />
+            <entry key="com.alhanah.sami.omari.name" value="&#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="nov" value="&#x646;&#x648;&#x641;&#x645;" />
+            <entry key="kis" value="&#x643;&#x644;&#x641;" />
+            <entry key="com.alhanah.sami.hebrew" value="&#x639;&#x628;&#x631;&#x64a;" />
+            <entry key="Sunday" value="&#x627;&#x644;&#x623;&#x62d;&#x62f;" />
+            <entry key="SH" value="&#x647;&#x633;" />
+            <entry key="shw" value="&#x634;&#x648;&#x644;" />
+            <entry key="january" value="&#x64a;&#x646;&#x627;&#x64a;&#x631;" />
+            <entry key="com.alhanah.sami.greg" value="&#x62c;&#x631;&#x64a;&#x62c;&#x648;&#x631;&#x64a; &#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a;" />
+            <entry key="shv" value="&#x62a;&#x634;&#x641;" />
+            <entry key="sht" value="&#x634;&#x631;&#x637;" />
+            <entry key="Stations Year" value="&#x645;&#x646;&#x627;&#x632;&#x644;" />
+            <entry key="New Page" value="&#x645;&#x633;&#x648;&#x62f;&#x629; &#x62c;&#x62f;&#x64a;&#x62f;&#x629;" />
+            <entry key="expectnewrelease" value="&#x627;&#x644;&#x645;&#x632;&#x64a;&#x62f; &#x641;&#x64a; &#x627;&#x644;&#x625;&#x635;&#x62f;&#x627;&#x631; &#x627;&#x644;&#x642;&#x627;&#x62f;&#x645;" />
+            <entry key="Small Leap Year" value="&#x643;&#x628;&#x633; &#x64a;&#x648;&#x645;" />
+            <entry key="tshshort" value="&#x623;&#x62f;1" />
+            <entry key="com.alhanah.sami.zodiac.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ConstCalendarDiskURL" />
+            <entry key="muh" value="&#x645;&#x62d;&#x631;&#x645;" />
+            <entry key="shl" value="&#x634;&#x648;&#x644;" />
+            <entry key="Heb" value="&#x639;&#x628;&#x631;&#x64a;" />
+            <entry key="kislev" value="&#x643;&#x633;&#x644;&#x641;" />
+            <entry key="shb" value="&#x634;&#x639;&#x628;" />
+            <entry key="hanahurl" value="https://www.alhanah.com/index.php/category/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85/" />
+            <entry key="buyCell" value="&#x637;&#x648;&#x651;&#x631;" />
+            <entry key="com.alhanah.sami.solarstations.name" value="&#x645;&#x646;&#x627;&#x632;&#x644; &#x627;&#x644;&#x634;&#x645;&#x633;" />
+            <entry key="com.alhanah.sami.zodiac.name" value="&#x623;&#x628;&#x631;&#x627;&#x62c; &#x646;&#x627;&#x633;&#x627;" />
+            <entry key="allcalendars" value="&#x62c;&#x645;&#x64a;&#x639; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x641;&#x64a; &#x627;&#x644;&#x62d;&#x627;&#x646;&#x629;" />
+            <entry key="muharram" value="&#x645;&#x62d;&#x631;&#x645;" />
+            <entry key="com.alhanah.sami.omari.habash.name" value="&#x647;&#x62c;&#x631;&#x64a; (&#x62d;&#x628;&#x634;)" />
+            <entry key="updateLocation" value="&#x62a;&#x62d;&#x62f;&#x64a;&#x62b; &#x627;&#x644;&#x645;&#x648;&#x642;&#x639;" />
+            <entry key="com.alhanah.sami.ad" value="&#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a;" />
+            <entry key="dbr" value="&#x62f;&#x628;&#x631;" />
+            <entry key="welcomedesc" value="&#x62d;&#x64a;&#x627;&#x643;&#x645; &#x627;&#x644;&#x644;&#x647; &#x641;&#x64a; &#x62d;&#x627;&#x646;&#x629; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645;.. &#x641;&#x636;&#x644;&#x627; &#x627;&#x62e;&#x62a;&#x631; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x630;&#x64a; &#x62a;&#x62d;&#x628; &#x639;&#x631;&#x636;&#x647; &#x641;&#x64a; &#x627;&#x644;&#x635;&#x641;&#x62d;&#x629; &#x627;&#x644;&#x631;&#x626;&#x64a;&#x633;&#x64a;&#x629; &#x628;&#x627;&#x644;&#x636;&#x63a;&#x637; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x638;&#x627;&#x647;&#x631;." />
+            <entry key="aug" value="&#x623;&#x63a;&#x633;" />
+            <entry key="chv" value="&#x62a;&#x634;&#x641;" />
+            <entry key="com.alhanah.sami.omari.15.extra" value="&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x647;&#x62c;&#x631;&#x64a; &#x64a;&#x639;&#x62a;&#x645;&#x62f; &#x643;&#x628;&#x633; 11 &#x633;&#x646;&#x629; &#x645;&#x639;&#x64a;&#x646;&#x629; &#x641;&#x64a; &#x643;&#x644; 30 &#x633;&#x646;&#x629;&#x60c; &#x644;&#x62a;&#x643;&#x648;&#x646; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; 355 &#x64a;&#x648;&#x645;&#x627; &#x628;&#x62f;&#x644;&#x627; &#x645;&#x646; 354. &#x623;&#x645;&#x627; &#x627;&#x644;&#x634;&#x647;&#x648;&#x631;&#x60c; &#x641;&#x645;&#x62d;&#x631;&#x645; 30 &#x648;&#x635;&#x641;&#x631; 29 &#x648;&#x647;&#x643;&#x630;&#x627; &#x641;&#x64a; &#x643;&#x644; &#x633;&#x646;&#x629;&#x60c; &#x645;&#x627; &#x639;&#x62f;&#x627; &#x630;&#x648; &#x627;&#x644;&#x62d;&#x62c;&#x629; &#x64a;&#x643;&#x648;&#x646; 30 &#x64a;&#x648;&#x645;&#x627; &#x641;&#x64a; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x643;&#x628;&#x64a;&#x633;&#x629;." />
+            <entry key="hijriindianshort" value="&#x647;&#x639;&#x647;&#x640;" />
+            <entry key="hutshort" value="&#x62d;&#x648;&#x62a;" />
+            <entry key="cheshvan" value="&#x62a;&#x634;&#x64a;&#x641;&#x627;&#x646;" />
+            <entry key="hamal" value="&#x62d;&#x645;&#x644;" />
+            <entry key="hagaah" value="&#x627;&#x644;&#x647;&#x642;&#x639;&#x629;" />
+            <entry key="safar" value="&#x635;&#x641;&#x631;" />
+            <entry key="mizanshort" value="&#x645;&#x632;&#x646;" />
+            <entry key="com.alhanah.sami.wsmi.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x648;&#x633;&#x645;&#x64a; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="com.alhanah.sami.newmoon" value="&#x647;&#x644;&#x627;&#x644;" />
+            <entry key="rmd" value="&#x631;&#x645;&#x636;" />
+            <entry key="QH" value="&#x647;&#x642;" />
+            <entry key="com.alhanah.sami.byroni.name" value="&#x627;&#x644;&#x628;&#x64a;&#x631;&#x648;&#x646;&#x64a; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="haj" value="&#x62d;&#x62c;&#x629;" />
+            <entry key="sfr" value="&#x635;&#x641;&#x631;" />
+            <entry key="Zodiac Leap Year" value="&#x643;&#x628;&#x633; &#x633;&#x646;&#x629; &#x628;&#x631;&#x62c;&#x64a;&#x629;" />
+            <entry key="selectcity" value="&#x62a;&#x62d;&#x62f;&#x64a;&#x62b; &#x627;&#x644;&#x645;&#x648;&#x642;&#x639;" />
+            <entry key="gfr" value="&#x63a;&#x641;&#x631;" />
+            <entry key="com.alhanah.sami.dayview.name" value="&#x627;&#x644;&#x648;&#x627;&#x62c;&#x647;&#x629; &#x627;&#x644;&#x64a;&#x648;&#x645;&#x64a;&#x629;" />
+            <entry key="addobran" value="&#x627;&#x644;&#x62f;&#x628;&#x631;&#x627;&#x646;" />
+            <entry key="com.alhanah.sami.solarstations" value="&#x645;&#x646;&#x632;&#x644; &#x634;&#x645;&#x633;&#x64a;" />
+            <entry key="com.alhanah.sami.qazwini.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a; &#x627;&#x644;&#x645;&#x635;&#x645;&#x645; &#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x633;&#x64a;&#x62f; &#x641;&#x631;&#x642;&#x62f; &#x627;&#x644;&#x642;&#x632;&#x648;&#x64a;&#x646;&#x64a; &#x627;&#x644;&#x645;&#x646;&#x634;&#x648;&#x631; &#x628;&#x637;&#x631;&#x64a;&#x642;&#x629; &#x62a;&#x641;&#x627;&#x639;&#x644;&#x64a;&#x629; &#x645;&#x639; &#x627;&#x644;&#x642;&#x62f;&#x631;&#x629; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="com.alhanah.sami.blackmoon" value="&#x62f;&#x648;&#x631;&#x629; &#x627;&#x644;&#x645;&#x62d;&#x627;&#x642;" />
+            <entry key="com.alhanah.sami.umalqura1423.short" value="&#x647;&#x640;" />
+            <entry key="june" value="&#x64a;&#x648;&#x646;&#x64a;&#x648;" />
+            <entry key="visitHelpQuestion" value="&#x647;&#x644; &#x62a;&#x62d;&#x628; &#x627;&#x644;&#x62a;&#x648;&#x62c;&#x647; &#x644;&#x644;&#x642;&#x631;&#x627;&#x621;&#x629;  &#x639;&#x646; &#x647;&#x630;&#x647; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645;&#x61f;" />
+            <entry key="rajab" value="&#x631;&#x62c;&#x628; " />
+            <entry key="Close" value="&#x625;&#x63a;&#x644;&#x627;&#x642;" />
+            <entry key="september" value="&#x633;&#x628;&#x62a;&#x645;&#x628;&#x631;" />
+            <entry key="com.alhanah.sami.omari.desc" value="&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x62e;&#x644;&#x64a;&#x641;&#x629; &#x639;&#x645;&#x631; &#x628;&#x646; &#x627;&#x644;&#x62e;&#x637;&#x627;&#x628; &#x648;&#x627;&#x644;&#x645;&#x639;&#x631;&#x648;&#x641; &#x628;&#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; &#x627;&#x644;&#x645;&#x633;&#x62a;&#x62e;&#x62f;&#x645; &#x648;&#x627;&#x644;&#x645;&#x639;&#x62a;&#x645;&#x62f; &#x645;&#x646; &#x62c;&#x647;&#x627;&#x62a; &#x639;&#x62f;&#x629; &#x639;&#x627;&#x644;&#x645;&#x64a;&#x627;" />
+            <entry key="Luner Year" value="&#x642;&#x645;&#x631;&#x64a;&#x629;" />
+            <entry key="com.alhanah.sami.julian.name" value="&#x627;&#x644;&#x64a;&#x648;&#x644;&#x64a;&#x627;&#x646;&#x64a;" />
+            <entry key="OH" value="&#x647;&#x639;" />
+            <entry key="bld" value="&#x628;&#x644;&#x62f;" />
+            <entry key="jm2" value="&#x62c;&#x645;&#x62f;2" />
+            <entry key="jm1" value="&#x62c;&#x645;&#x62f;1" />
+            <entry key="bla" value="&#x628;&#x644;&#x639;" />
+            <entry key="hanaah" value="&#x627;&#x644;&#x647;&#x646;&#x639;&#x629;" />
+            <entry key="com.alhanah.sami.monthview.name" value="&#x627;&#x644;&#x648;&#x627;&#x62c;&#x647;&#x629; &#x627;&#x644;&#x634;&#x647;&#x631;&#x64a;&#x629;" />
+            <entry key="com.alhanah.sami.omari.16.name" value="&#x647;&#x62c;&#x631;&#x64a; (16)" />
+            <entry key="Configure Calendars" value="&#x62a;&#x63a;&#x64a;&#x64a;&#x631; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x623;&#x633;&#x627;&#x633;&#x64a;&#x629;" />
+            <entry key="rjr" value="&#x631;&#x62c;&#x628; &#x631;" />
+            <entry key="com.alhanah.sami.solar128.name" value="&#x627;&#x644;&#x634;&#x645;&#x633;&#x64a; &#x627;&#x644;&#x62f;&#x642;&#x64a;&#x642; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a;" />
+            <entry key="rjm" value="&#x631;&#x62c;&#x628; &#x645;" />
+            <entry key="tvt" value="&#x62a;&#x641;&#x62a;" />
+            <entry key="autumn" value="&#x627;&#x644;&#x62e;&#x631;&#x64a;&#x641;" />
+            <entry key="zabana" value="&#x627;&#x644;&#x632;&#x64a;&#x627;&#x646;&#x649;" />
+            <entry key="july" value="&#x64a;&#x648;&#x644;&#x64a;&#x648;" />
+            <entry key="changeLang" value="&#x62a;&#x63a;&#x64a;&#x64a;&#x631; &#x627;&#x644;&#x644;&#x63a;&#x629;" />
+            <entry key="com.alhanah.sami.solarstations.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x645;&#x646;&#x627;&#x632;&#x644; &#x627;&#x644;&#x634;&#x645;&#x633; &#x627;&#x644;&#x645;&#x639;&#x631;&#x648;&#x641;&#x629; &#x628;&#x645;&#x646;&#x627;&#x632;&#x644; &#x627;&#x644;&#x642;&#x645;&#x631; &#x623;&#x64a;&#x636;&#x627; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="com.alhanah.sami.zodiac.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x623;&#x628;&#x631;&#x627;&#x62c; &#x646;&#x627;&#x633;&#x627; &#x627;&#x644;&#x62b;&#x644;&#x627;&#x62b;&#x629; &#x639;&#x634;&#x631; &#x627;&#x644;&#x62c;&#x62f;&#x64a;&#x62f;&#x629; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="com.alhanah.sami.omari.habash.desc" value="&#x645;&#x643;&#x648;&#x646; &#x64a;&#x633;&#x627;&#x639;&#x62f;&#x643; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; &#x648;&#x623;&#x64a; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x644;&#x62f;&#x64a;&#x643;&#x60c; &#x645;&#x639; &#x627;&#x644;&#x623;&#x62e;&#x630; &#x641;&#x64a; &#x627;&#x644;&#x627;&#x639;&#x62a;&#x628;&#x627;&#x631; &#x62c;&#x62f;&#x627;&#x648;&#x644; (&#x62d;&#x628;&#x634;) &#x627;&#x644;&#x639;&#x627;&#x644;&#x645; &#x627;&#x644;&#x645;&#x62a;&#x62e;&#x635;&#x635; &#x641;&#x64a; &#x636;&#x628;&#x637; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; &#x628; 355 &#x64a;&#x648;&#x645;." />
+            <entry key="Rabeah Leap Year" value="&#x643;&#x628;&#x633; &#x631;&#x628;&#x64a;&#x639;&#x629;" />
+            <entry key="com.alhanah.sami.byroni.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ByroniCalendarDiscURL" />
+            <entry key="rjb" value="&#x631;&#x62c;&#x628;" />
+            <entry key="october" value="&#x623;&#x643;&#x62a;&#x648;&#x628;&#x631;" />
+            <entry key="jabhah" value="&#x627;&#x644;&#x62c;&#x628;&#x647;&#x629;" />
+            <entry key="cancel" value="&#x625;&#x644;&#x63a;&#x627;&#x621;" />
+            <entry key="oct" value="&#x623;&#x643;&#x62a;&#x628;" />
+            <entry key="com.alhanah.sami.omari.16" value=" &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; (16)" />
+            <entry key="com.alhanah.sami.omari.15" value="&#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; (15)" />
+            <entry key="apr" value="&#x628;&#x631;&#x644;" />
+            <entry key="nim" value="&#x646;&#x639;&#x645;" />
+            <entry key="com.alhanah.sami.byroni.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x639;&#x631;&#x628;&#x64a; &#x628;&#x62d;&#x633;&#x628; &#x631;&#x648;&#x627;&#x64a;&#x629; &#x627;&#x644;&#x645;&#x624;&#x631;&#x62e; &#x627;&#x644;&#x628;&#x64a;&#x631;&#x648;&#x646;&#x64a; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="visitHelp" value="&#x645;&#x633;&#x627;&#x639;&#x62f;&#x629;&#x61f;" />
+            <entry key="com.alhanah.sami.qazwini.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#QawiniCalendarDiskURL" />
+            <entry key="sawr" value="&#x62b;&#x648;&#x631;" />
+            <entry key="shortSaturday" value="&#x633;&#x628;&#x62a;" />
+            <entry key="z13s" value="&#x62d;&#x648;&#x627;&#x621;" />
+            <entry key="season128" value="&#x627;&#x644;&#x641;&#x635;&#x648;&#x644; &#x62d;&#x633;&#x628; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x634;&#x645;&#x633;&#x64a;&#x629; 128" />
+            <entry key="com.alhanah.sami.full.name" value="&#x627;&#x644;&#x639;&#x631;&#x636; &#x627;&#x644;&#x634;&#x627;&#x645;&#x644;" />
+            <entry key="com.alhanah.sami.omari.indian.name" value="&#x647;&#x62c;&#x631;&#x64a; (&#x62d;&#x628;&#x634;)" />
+            <entry key="Saturday" value="&#x627;&#x644;&#x633;&#x628;&#x62a;" />
+            <entry key="z09s" value="&#x623;&#x633;&#x62f;" />
+            <entry key="Enter YearDate" value="&#x623;&#x62f;&#x62e;&#x644; &#x627;&#x644;&#x633;&#x646;&#x629;" />
+            <entry key="Monday" value="&#x627;&#x644;&#x627;&#x62b;&#x646;&#x64a;&#x646;" />
+            <entry key="hut" value="&#x62d;&#x648;&#x62a;" />
+            <entry key="seasonfalak" value="&#x627;&#x644;&#x641;&#x635;&#x648;&#x644; &#x62d;&#x633;&#x628; &#x62d;&#x633;&#x627;&#x628;&#x627;&#x62a; &#x641;&#x644;&#x643;&#x64a;&#x629;" />
+            <entry key="butain" value="&#x627;&#x644;&#x628;&#x637;&#x64a;&#x646;" />
+            <entry key="sfr2" value="&#x635;&#x641;&#x631;2" />
+            <entry key="december" value="&#x62f;&#x64a;&#x633;&#x645;&#x628;&#x631;" />
+            <entry key="zabih" value="&#x627;&#x644;&#x630;&#x627;&#x628;&#x62d;" />
+            <entry key="febuary" value="&#x641;&#x628;&#x631;&#x627;&#x64a;&#x631;" />
+            <entry key="com.alhanah.sami.dayview.desc" value="&#x648;&#x627;&#x62c;&#x647;&#x629; &#x639;&#x631;&#x636; &#x62e;&#x627;&#x635;&#x629; &#x644;&#x631;&#x624;&#x64a;&#x629; &#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62a; &#x627;&#x644;&#x64a;&#x648;&#x645; &#x645;&#x639; &#x627;&#x644;&#x623;&#x62d;&#x62f;&#x627;&#x62b; &#x648;&#x645;&#x627; &#x64a;&#x648;&#x627;&#x641;&#x642;&#x647;&#x627; &#x628;&#x634;&#x643;&#x644; &#x62a;&#x641;&#x627;&#x639;&#x644;&#x64a;" />
+            <entry key="com.alhanah.sami.newmoon.name" value="&#x62f;&#x648;&#x631;&#x629; &#x627;&#x644;&#x647;&#x644;&#x627;&#x644; &#x641;&#x64a; &#x645;&#x62f;&#x64a;&#x646;&#x62a;&#x643;" />
+            <entry key="sonbola" value="&#x633;&#x646;&#x628;&#x644;&#x629;" />
+            <entry key="z12s" value="&#x639;&#x642;&#x631;&#x628;" />
+            <entry key="LC" value="&#x646;&#x632;&#x644;" />
+            <entry key="sivan" value="&#x633;&#x64a;&#x641;&#x627;&#x646;" />
+            <entry key="jhi" value="&#x625;&#x62c;&#x647;&#x640;" />
+            <entry key="Luner Year Short" value="&#x642;&#x645;&#x631;&#x64a;&#x629;" />
+            <entry key="dalw" value="&#x62f;&#x644;&#x648;" />
+            <entry key="z08s" value="&#x633;&#x631;&#x637;" />
+            <entry key="S.AD" value="&#x634;&#x645;" />
+            <entry key="limitReached" value="&#x62d;&#x62f; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645;" />
+            <entry key="sad" value="&#x633;&#x639;&#x62f;" />
+            <entry key="alghfr" value="&#x627;&#x644;&#x63a;&#x641;&#x631;" />
+            <entry key="com.alhanah.sami.julian.desc" value="&#x641;&#x62a;&#x62d; &#x645;&#x643;&#x648;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x64a;&#x648;&#x644;&#x64a;&#x627;&#x646;&#x64a; &#x644;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x623;&#x62e;&#x631;&#x649;" />
+            <entry key="com.alhanah.sami.omari.15.name" value="&#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; (15)" />
+            <entry key="saratanshort" value="&#x633;&#x631;&#x637;" />
+            <entry key="tsh" value="&#x62a;&#x634;" />
+            <entry key="com.alhanah.jalili.ir.url" value="https://www.alhanah.com/index.php/category/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85/" />
+            <entry key="z11s" value="&#x645;&#x64a;&#x632;&#x627;&#x646;" />
+            <entry key="eluh" value="&#x625;&#x644;&#x648;&#x647;" />
+            <entry key="com.alhanah.sami.monthview.desc" value="&#x648;&#x627;&#x62c;&#x647;&#x629; &#x62e;&#x627;&#x635;&#x629; &#x644;&#x631;&#x624;&#x64a;&#x629; &#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62a; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x628;&#x634;&#x643;&#x644; &#x634;&#x647;&#x631;&#x64a;" />
+            <entry key="moakhar" value="&#x627;&#x644;&#x645;&#x624;&#x62e;&#x631;" />
+            <entry key="com.alhanah.sami.omari.16.desc" value="&#x645;&#x643;&#x648;&#x646; &#x64a;&#x633;&#x627;&#x639;&#x62f;&#x643; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; &#x648;&#x623;&#x64a; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x644;&#x62f;&#x64a;&#x643;&#x60c; &#x645;&#x639; &#x627;&#x644;&#x623;&#x62e;&#x630; &#x641;&#x64a; &#x627;&#x644;&#x627;&#x639;&#x62a;&#x628;&#x627;&#x631; &#x62c;&#x62f;&#x627;&#x648;&#x644; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x627;&#x644;&#x623;&#x643;&#x62b;&#x631; &#x627;&#x633;&#x62a;&#x62e;&#x62f;&#x627;&#x645;&#x627; &#x623;&#x633;&#x627;&#x633;16&#x641;&#x64a; &#x636;&#x628;&#x637; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; &#x628; 355 &#x64a;&#x648;&#x645;." />
+            <entry key="jawzashort" value="&#x62c;&#x648;&#x632;" />
+            <entry key="z07s" value="&#x62c;&#x648;&#x632;" />
+            <entry key="aqrabshort" value="&#x639;&#x642;&#x628;" />
+            <entry key="april" value="&#x625;&#x628;&#x631;&#x64a;&#x644;" />
+            <entry key="com.alhanah.sami.solar128.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x634;&#x645;&#x633;&#x64a; &#x627;&#x644;&#x62f;&#x642;&#x64a;&#x642; &#x630;&#x648; &#x643;&#x628;&#x633; 128 &#x633;&#x646;&#x629; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
+            <entry key="com.alhanah.sami.omari.habash.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="saud" value="&#x633;&#x639;&#x62f; &#x627;&#x644;&#x633;&#x639;&#x648;&#x62f;" />
+            <entry key="J" value="&#x64a;&#x645;" />
+            <entry key="naaim" value="&#x627;&#x644;&#x646;&#x639;&#x627;&#x626;&#x645;" />
+            <entry key="G" value="&#x62c;&#x645;" />
+            <entry key="thohija" value="&#x630;&#x648; &#x627;&#x644;&#x62d;&#x62c;&#x629;" />
+            <entry key="Big Hajj Leap Year" value="&#x627;&#x644;&#x62d;&#x62c; &#x627;&#x644;&#x623;&#x643;&#x628;&#x631;" />
+            <entry key="trf" value="&#x637;&#x631;&#x641;" />
+            <entry key="shevat" value="&#x634;&#x64a;&#x641;&#x627;&#x62a;" />
+            <entry key="z10s" value="&#x633;&#x646;&#x628;&#x644;" />
+            <entry key="com.alhanah.sami.newmoon.extra" value="&#x62f;&#x648;&#x631;&#x629; &#x648;&#x631;&#x635;&#x62f; &#x627;&#x644;&#x647;&#x644;&#x627;&#x644; &#x641;&#x64a; &#x645;&#x62f;&#x64a;&#x646;&#x62a;&#x643; &#x642;&#x62f; &#x64a;&#x62e;&#x62a;&#x644;&#x641; &#x639;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x642;&#x64a;&#x627;&#x633;&#x64a;&#x629;&#x60c; &#x645;&#x62a;&#x627;&#x628;&#x639;&#x629; &#x627;&#x644;&#x642;&#x645;&#x631; &#x648;&#x639;&#x645;&#x631;&#x647; &#x645;&#x637;&#x644;&#x648;&#x628; &#x644;&#x645;&#x646; &#x64a;&#x631;&#x64a;&#x62f; &#x627;&#x644;&#x62a;&#x639;&#x628;&#x62f; &#x641;&#x64a; &#x647;&#x630;&#x647; &#x627;&#x644;&#x645;&#x648;&#x627;&#x642;&#x64a;&#x62a;&#x60c; &#x623;&#x645;&#x627; &#x627;&#x644;&#x645;&#x642;&#x627;&#x64a;&#x64a;&#x633; &#x627;&#x644;&#x62f;&#x646;&#x64a;&#x648;&#x64a;&#x629; &#x648;&#x627;&#x644;&#x62a;&#x639;&#x627;&#x645;&#x644;&#x627;&#x62a;&#x60c; &#x641;&#x627;&#x644;&#x623;&#x641;&#x636;&#x644; &#x627;&#x644;&#x625;&#x639;&#x62a;&#x645;&#x627;&#x62f; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x642;&#x64a;&#x627;&#x633;&#x64a;&#x629; &#x627;&#x644;&#x62a;&#x64a; &#x644;&#x627; &#x62a;&#x62a;&#x623;&#x62b;&#x631; &#x628;&#x639;&#x648;&#x627;&#x645;&#x644; &#x627;&#x644;&#x641;&#x644;&#x643; &#x648;&#x645;&#x646;&#x647;&#x627; &#x62a;&#x633;&#x62a;&#x637;&#x64a;&#x639; &#x627;&#x644;&#x62d;&#x633;&#x627;&#x628; &#x648;&#x627;&#x644;&#x62a;&#x648;&#x627;&#x635;&#x644;." />
+            <entry key="ddddddddd" value="&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646;" />
+            <entry key="march" value="&#x645;&#x627;&#x631;&#x633;" />
+            <entry key="av" value="&#x623;&#x628;" />
+            <entry key="com.alhanah.jalili.ir" value="&#x62c;&#x644;&#x627;&#x644;&#x64a; &#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="about" value="&#x62d;&#x648;&#x644; &#x627;&#x644;&#x628;&#x631;&#x646;&#x627;&#x645;&#x62c;" />
+            <entry key="z06s" value="&#x62b;&#x648;&#x631;" />
+            <entry key="com.alhanah.sami.sami.fixed.name" value="&#x627;&#x644;&#x633;&#x627;&#x645;&#x64a; &#x642;" />
+            <entry key="haram9" value="&#x627;&#x644;&#x62d;&#x631;&#x627;&#x645;9" />
+            <entry key="com.alhanah.sami.omari.indian" value="&#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; (&#x647;&#x646;&#x62f;&#x64a;)" />
+            <entry key="haram5" value="&#x627;&#x644;&#x62d;&#x631;&#x627;&#x645;5" />
+            <entry key="hrm" value="&#x62d;&#x631;&#x627;&#x645;" />
+            <entry key="jawza" value="&#x62c;&#x648;&#x632;&#x627;&#x621;" />
+            <entry key="nisan" value="&#x646;&#x64a;&#x633;&#x627;&#x646;" />
+            <entry key="elh" value="&#x625;&#x644;&#x648;&#x647;" />
+            <entry key="mkr" value="&#x624;&#x62e;&#x631;" />
+            <entry key="com.alhanah.sami.full.desc" value="&#x647;&#x630;&#x627; &#x627;&#x644;&#x639;&#x631;&#x636; &#x634;&#x627;&#x645;&#x644; &#x644;&#x62c;&#x645;&#x64a;&#x639; &#x62e;&#x62f;&#x645;&#x627;&#x62a; &#x62d;&#x627;&#x646;&#x629; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x628;&#x62c;&#x645;&#x64a;&#x639; &#x627;&#x644;&#x648;&#x627;&#x62c;&#x647;&#x627;&#x62a;&#x60c; &#x648;&#x645;&#x62c;&#x627;&#x644; &#x62a;&#x627;&#x631;&#x64a;&#x62e;&#x64a; &#x64a;&#x62d;&#x648;&#x64a; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646;&#x60c; &#x639;&#x631;&#x636; &#x648;&#x627;&#x62d;&#x62f; &#x64a;&#x634;&#x645;&#x644; &#x643;&#x644; &#x634;&#x64a;&#x621;. " />
+            <entry key="com.alhanah.sami.omari.indian.desc" value="&#x645;&#x643;&#x648;&#x646; &#x64a;&#x633;&#x627;&#x639;&#x62f;&#x643; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; &#x648;&#x623;&#x64a; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x644;&#x62f;&#x64a;&#x643;&#x60c; &#x645;&#x639; &#x627;&#x644;&#x623;&#x62e;&#x630; &#x641;&#x64a; &#x627;&#x644;&#x627;&#x639;&#x62a;&#x628;&#x627;&#x631; &#x62c;&#x62f;&#x627;&#x648;&#x644; (&#x627;&#x644;&#x647;&#x646;&#x62f;&#x64a;)  &#x641;&#x64a; &#x636;&#x628;&#x637; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x627;&#x644;&#x645;&#x643;&#x628;&#x648;&#x633;&#x629; &#x628; 355 &#x64a;&#x648;&#x645;." />
+            <entry key="com.alhanah.sami.umalqura1423.extra" value="&#x64a;&#x633;&#x62a;&#x646;&#x62f; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x623;&#x645; &#x627;&#x644;&#x642;&#x631;&#x649; &#x645;&#x646;&#x630; &#x639;&#x627;&#x645; 1423 &#x639;&#x644;&#x649; &#x627;&#x644;&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646; &#x627;&#x644;&#x645;&#x631;&#x643;&#x632;&#x64a; &#x648;&#x645;&#x648;&#x639;&#x62f; &#x63a;&#x631;&#x648;&#x628; &#x627;&#x644;&#x642;&#x645;&#x631; &#x644;&#x62a;&#x62d;&#x62f;&#x64a; &#x627;&#x644;&#x64a;&#x648;&#x645; &#x627;&#x644;&#x623;&#x648;&#x644; &#x641;&#x64a; &#x627;&#x644;&#x634;&#x647;&#x631; &#x627;&#x644;&#x642;&#x645;&#x631;&#x64a;. &#x644;&#x644;&#x645;&#x632;&#x64a;&#x62f; &#x645;&#x631;&#x627;&#x62c;&#x639;&#x629; &#x645;&#x643;&#x62a;&#x628;&#x629; &#x645;&#x648;&#x642;&#x639; &#x627;&#x644;&#x62d;&#x627;&#x646;&#x629;." />
+            <entry key="blackMonthShort" value="&#x642;&#x631;&#x646;" />
+            <entry key="sammak" value="&#x627;&#x644;&#x633;&#x645;&#x627;&#x643;" />
+            <entry key="com.alhanah.sami.omari.habash" value="&#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a; (&#x62d;&#x628;&#x634;)" />
+            <entry key="Stations Leap Year" value="&#x643;&#x628;&#x633; &#x645;&#x646;&#x627;&#x632;&#x644;" />
+            <entry key="com.alhanah.sami.solar128" value="&#x634;&#x645;&#x633;&#x64a;128" />
+            <entry key="tevet" value="&#x62a;&#x64a;&#x641;&#x64a;&#x62a;" />
+            <entry key="z05s" value="&#x62d;&#x645;&#x644;" />
+            <entry key="dddddddd" value="&#x642;&#x631;&#x646;" />
+            <entry key="mkd" value="&#x642;&#x62f;&#x645;" />
+            <entry key="ikl" value="&#x623;&#x643;&#x644;&#x644;" />
+            <entry key="com.alhanah.sami.byroni" value="&#x628;&#x64a;&#x631;&#x648;&#x646;&#x64a; &#x647;&#x62c;&#x631;&#x64a;" />
+            <entry key="shaaban" value="&#x634;&#x639;&#x628;&#x627;&#x646;" />
+            <entry key="feb" value="&#x641;&#x628;&#x631;" />
+            <entry key="zobrah" value="&#x627;&#x644;&#x632;&#x628;&#x631;&#x629;" />
+            <entry key="com.alhanah.sami.newmoon.desc" value="&#x645;&#x643;&#x648;&#x651;&#x646; &#x625;&#x636;&#x627;&#x641;&#x64a; &#x64a;&#x639;&#x637;&#x64a;&#x643; &#x62f;&#x648;&#x631;&#x629; &#x627;&#x644;&#x642;&#x645;&#x631; &#x62d;&#x633;&#x628; &#x638;&#x647;&#x648;&#x631; &#x627;&#x644;&#x647;&#x644;&#x627;&#x644; &#x641;&#x64a; &#x645;&#x62f;&#x64a;&#x646;&#x62a;&#x643;. &#x645;&#x645;&#x62a;&#x627;&#x632; &#x644;&#x645;&#x646; &#x64a;&#x631;&#x64a;&#x62f; &#x645;&#x62a;&#x627;&#x628;&#x639;&#x629; &#x623;&#x648;&#x642;&#x627;&#x62a; &#x627;&#x644;&#x639;&#x628;&#x627;&#x62f;&#x629; &#x62d;&#x633;&#x628; &#x627;&#x644;&#x631;&#x624;&#x64a;&#x629;. &#x64a;&#x639;&#x62a;&#x645;&#x62f; &#x627;&#x644;&#x62d;&#x633;&#x627;&#x628; &#x63a;&#x631;&#x648;&#x628; &#x627;&#x644;&#x647;&#x644;&#x627;&#x644; &#x628;&#x639;&#x62f; 30 &#x62f;&#x642;&#x64a;&#x642;&#x629; &#x645;&#x646; &#x63a;&#x631;&#x648;&#x628; &#x634;&#x645;&#x633; &#x622;&#x62e;&#x631; &#x627;&#x644;&#x634;&#x647;&#x631;." />
+            <entry key="tammuz" value="&#x62a;&#x645;&#x648;&#x632;" />
+            <entry key="adar2" value="&#x623;&#x62f;&#x627;&#x631;2" />
+            <entry key="svn" value="&#x633;&#x641;&#x646;" />
+            <entry key="seasonjalali" value="&#x627;&#x644;&#x641;&#x635;&#x648;&#x644; &#x62d;&#x633;&#x628; &#x627;&#x644;&#x633;&#x646;&#x629; &#x627;&#x644;&#x62c;&#x644;&#x627;&#x644;&#x64a;&#x629;" />
+        </lang>
+        <lang name="en">
+            <entry key="mokaddam" value="Almokhadam" />
+            <entry key="akb" value="Akb" />
+            <entry key="z04s" value="Pis" />
+            <entry key="alreadyPurchased" value="Pack Included" />
+            <entry key="sawrshort" value="Tor" />
+            <entry key="iyar" value="Iyar" />
+            <entry key="com.alhanah.sami.omari.15.desc" value="Add-on to convert Hijri (Base 15) Leap Style, Also called the Kuwaiti Standard, or Microsoft Standard. the ability to convert between this calendar systems you have in your portfolio. the limit range of the conversions is based on the time space of your phone which is most likely thoughsands of year spans." />
+            <entry key="com.alhanah.sami.umalqura1423" value="Um Alqura" />
+            <entry key="zbr" value="Zbr" />
+            <entry key="shartain" value="Alshartain" />
+            <entry key="qawsshort" value="Qws" />
+            <entry key="zbn" value="Zbn" />
+            <entry key="zbh" value="Zbh" />
+            <entry key="alkalb" value="Alkalb" />
+            <entry key="z03s" value="Aqu" />
+            <entry key="sholah" value="Alsholah" />
+            <entry key="com.alhanah.sami.ad.name" value="Greg/Jul" />
+            <entry key="winter" value="Winter" />
+            <entry key="avshort" value="Av" />
+            <entry key="adar" value="AdarI" />
+            <entry key="com.alhanah.jalili.ir.name" value="Jalali Solar Hijri" />
+            <entry key="alharam" value="Alharam" />
+            <entry key="hideCalendar" value="Hide" />
+            <entry key="com.alhanah.sami.ad.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ADCalendarDiskURL" />
+            <entry key="com.alhanah.sami.solar128.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#AD128CalendarDiscURL" />
+            <entry key="com.alhanah.sami.omari.indian.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="com.alhanah.sami.greg.name" value="Gregorian" />
+            <entry key="thankspurchase" value="Thanks.  You Purchased: " />
+            <entry key="com.alhanah.sami.omari.habash.extra" value="Month Lengths are fixed to 30, 29, 30,, etc but Tho-Alhija is 30 when the year is a Leap year. There are 11 Leap years in 30 years distributed with spcific year positions." />
+            <entry key="com.alhanah.sami.sami.fixed.desc" value="The most requested Arabic Calendar depcting the seasons and religious occasions based on the works of Wissam Ishaq. This package opens conversions to the limit of your device between other dates." />
+            <entry key="thrshort" value="Thir" />
+            <entry key="jbh" value="Jbh" />
+            <entry key="mayshort" value="May" />
+            <entry key="z02s" value="Cap" />
+            <entry key="tmz" value="Tmz" />
+            <entry key="z13" value="Ophiuchus" />
+            <entry key="z12" value="Scorpio" />
+            <entry key="z11" value="Libra" />
+            <entry key="z10" value="Virgo" />
+            <entry key="daydiff" value="Days in Between" />
+            <entry key="Small Leap Year Short" value="Leap Year" />
+            <entry key="shortSunday" value="S" />
+            <entry key="rajabrabiah" value="Rajab Rabeiah" />
+            <entry key="hnh" value="Hnh" />
+            <entry key="Nasi Leap Year" value="Nasi Leap" />
+            <entry key="com.alhanah.sami.metonicview.name" value="Metonic View Package" />
+            <entry key="jan" value="Jan" />
+            <entry key="z09" value="Leo" />
+            <entry key="z08" value="Cancer" />
+            <entry key="z07" value="Gemini" />
+            <entry key="z06" value="Taurus" />
+            <entry key="rabei2" value="Rabei II" />
+            <entry key="z05" value="Aries" />
+            <entry key="rabei1" value="Rabei I" />
+            <entry key="z04" value="Pisces" />
+            <entry key="z01s" value="Sag" />
+            <entry key="rasha" value="Alrasha" />
+            <entry key="z03" value="Aquarius" />
+            <entry key="com.alhanah.sami.hebrew.name" value="Hebrew" />
+            <entry key="z02" value="Capricorn" />
+            <entry key="z01" value="Sagittarius" />
+            <entry key="rb2" value="RbII" />
+            <entry key="rb1" value="Rbi" />
+            <entry key="jadi" value="Jadi" />
+            <entry key="version" value="V" />
+            <entry key="com.alhanah.sami.omari.16.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="Thursday" value="Thursday" />
+            <entry key="nathrah" value="Alnathrah" />
+            <entry key="com.alhanah.sami.sami.name" value="Sami Hijri" />
+            <entry key="srf" value="Srf" />
+            <entry key="shawwal" value="Shawwal" />
+            <entry key="nasi" value="Leap Nasi" />
+            <entry key="addcalendar" value="Add Calendar" />
+            <entry key="missingLocationExtra" value="Requires Update" />
+            <entry key="com.alhanah.sami.yearview.name" value="Year / Month View Package" />
+            <entry key="moonMonth" value="Hilal" />
+            <entry key="Z13" value="Z13" />
+            <entry key="welcome" value="Calendar Alhanah" />
+            <entry key="menu" value="Menu" />
+            <entry key="com.alhanah.sami.omari.16.extra" value="Month Lengths are fixed to 30, 29, 30,, etc but Tho-Alhija is 30 when the year is a Leap year. There are 11 Leap years in 30 years distributed with spcific year positions." />
+            <entry key="com.alhanah.sami.julian" value="JulianAD" />
+            <entry key="Wednesday" value="Wednesday" />
+            <entry key="defaultCity?" value="Default City " />
+            <entry key="missingLocation" value="Location" />
+            <entry key="shortTuesday" value="T" />
+            <entry key="spring" value="Spring" />
+            <entry key="com.alhanah.sami.ad.desc" value="This package includes the Jul/Greg Calendar that takes into consideration the 1582 event of changing Calendar systems. Historians will find this calendar as dates before 1582 uses the Julian System, while after they use the Gregorian. this will show this system as a one entry and makes conversions more easy." />
+            <entry key="com.alhanah.sami.greg.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#GregorianCalendarDiskURL" />
+            <entry key="com.alhanah.sami.omari.15.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="com.alhanah.jalili.ir.desc" value="Jalali Solar Hijri Calendar, considered the most accurate calendar systems to match the equinoxes. Still used by some countries." />
+            <entry key="climitReached" value="Limit Reached" />
+            <entry key="com.alhanah.sami.qazwini" value="Muhammadi Hijri" />
+            <entry key="Calendar" value="Calendar" />
+            <entry key="jamad2" value="Jamad II" />
+            <entry key="jamad1" value="Jamad I" />
+            <entry key="spt" value="Spt" />
+            <entry key="com.alhanah.sami.greg.desc" value="This package includes the Gregorian Calendar for the years before 1582. This a great tool to know actually how the Julian and Gregorian dates correspond and to view this information with other Calendars you have in your list of packages." />
+            <entry key="BH" value="BH" />
+            <entry key="blackMonth" value="Black" />
+            <entry key="Julian Year" value="Julian" />
+            <entry key="qdh" value="Qdh" />
+            <entry key="mizan" value="Mizan" />
+            <entry key="com.alhanah.sami.qazwini.fajr.name" value="Mohammadi" />
+            <entry key="saratan" value="Saratan" />
+            <entry key="com.alhanah.sami.sami.fixed" value="Sami Hijri" />
+            <entry key="com.alhanah.sami.qazwini.fajr.short" value="HQ" />
+            <entry key="notpurchased" value="Upgrade" />
+            <entry key="safar2" value="Safar II" />
+            <entry key="com.alhanah.sami.metonicview.desc" value="Metonic View shows different calendar systems side by side with the ype of years as the rows. This way you can study the cycle type and leap type when compaing different Luner/Solar Calendars as well as other Calender Systems." />
+            <entry key="AD" value="AD" />
+            <entry key="hamalshort" value="Hml" />
+            <entry key="haram13" value="Alharam13" />
+            <entry key="asad" value="Asad" />
+            <entry key="showpacks" value="Show Calendar Packs" />
+            <entry key="com.alhanah.sami.hebrew.desc" value="The Hebrew Calendar is still used to study the Bible and world history, also helps researchers to compare events between different historians and calendar system. It is also a Luner/Solar Calendar that is a must have for those trying to understand prophetic events." />
+            <entry key="november" value="November" />
+            <entry key="hijri16short" value="H16" />
+            <entry key="thoqidah" value="Tho Alqidah" />
+            <entry key="thr" value="Thr" />
+            <entry key="showCalendar" value="Show" />
+            <entry key="Teusday" value="Teusday" />
+            <entry key="VersionN" value="1.9" />
+            <entry key="basketPurcahsed" value="Package" />
+            <entry key="jun" value="Jun" />
+            <entry key="jul" value="Jul" />
+            <entry key="com.alhanah.sami.sami.desc" value="Experience the new Sami Hijri Calendar based on the works of Ishaq Wisam Addin, a researcher in the field of Arabic Calendars." />
+            <entry key="buy" value="Buy" />
+            <entry key="com.alhanah.sami.hebrew.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#HebrewCalendarDiskURL" />
+            <entry key="dalwshort" value="Dlw" />
+            <entry key="asadshort" value="Asd" />
+            <entry key="alawaa" value="Alawwa" />
+            <entry key="com.alhanah.sami.yearview.desc" value="This shows a full year of all calendars you have in your packages in a year view. Also shows the Seasons on the same table view. you can Choose any Combination of Calendars to be displayed in this view." />
+            <entry key="com.alhanah.sami.umalqura1423.name" value="Um Alqura" />
+            <entry key="may" value="May" />
+            <entry key="com.alhanah.sami.qazwini.fajr" value="Mohammadi" />
+            <entry key="nth" value="Nth" />
+            <entry key="com.alhanah.sami.sami.fixed.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#SamiCalendarDiscURL" />
+            <entry key="mar" value="Mar" />
+            <entry key="shortFriday" value="F" />
+            <entry key="smk" value="Smk" />
+            <entry key="Modhar Leap Year" value="Rajab Modhar" />
+            <entry key="ok" value="OK" />
+            <entry key="shortMonday" value="M" />
+            <entry key="com.alhanah.sami.omari" value="Omari Hijri" />
+            <entry key="edit" value="Edit" />
+            <entry key="lunershort" value="Lun" />
+            <entry key="btn" value="Btn" />
+            <entry key="ramadhan" value="Ramadhan" />
+            <entry key="rsh" value="Rsh" />
+            <entry key="com.alhanah.sami.zodiac" value="Zodiac" />
+            <entry key="nsn" value="Nsn" />
+            <entry key="aqrab" value="Aqrab" />
+            <entry key="WH" value="WH" />
+            <entry key="nsi" value="Nsi" />
+            <entry key="hijrihabashshort" value="Hsh" />
+            <entry key="hgh" value="Hgh" />
+            <entry key="ikleel" value="Alikleel" />
+            <entry key="shortWednesday" value="W" />
+            <entry key="iyr" value="Iyr" />
+            <entry key="com.alhanah.sami.qazwini.fajr.desc" value="Full Muhammadi Capabilities to convert between this Calendar and other availbale calenders in your setup." />
+            <entry key="tishrei" value="Tishrei" />
+            <entry key="rajabmodhar" value="Rajab Modhar" />
+            <entry key="summer" value="Summer" />
+            <entry key="Zodiac Year" value="Zodiac" />
+            <entry key="august" value="August" />
+            <entry key="akhbiyah" value="Saad Alakhbiyah" />
+            <entry key="showColumn" value="Display" />
+            <entry key="com.alhanah.sami.wsmi.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#WasmiCalendarDiscURL" />
+            <entry key="com.alhanah.sami.solarstations.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#SolarStationsDiskURL" />
+            <entry key="com.alhanah.sami.sami" value="Sami Hijri" />
+            <entry key="dateconversion" value="Date Conversion" />
+            <entry key="hijri15short" value="H15" />
+            <entry key="klb" value="Klb" />
+            <entry key="minutesmall" value="m" />
+            <entry key="calendarLimitReachedMessage" value="Conversion for this Calendar is reached. To expand conversion for thousands of years, upgrade your pack." />
+            <entry key="com.alhanah.sami.newmoon.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="thiraa" value="Althirai" />
+            <entry key="shortThursday" value="TH" />
+            <entry key="com.alhanah.sami.julian.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="sonbolashort" value="Sbl" />
+            <entry key="select" value="Select" />
+            <entry key="Date" value="Date" />
+            <entry key="adr2" value="AdrII" />
+            <entry key="com.alhanah.sami.sami.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#SamiCalendarDiscURL" />
+            <entry key="com.alhanah.sami.wsmi.name" value="Wasmi Hijri" />
+            <entry key="com.alhanah.sami.omari.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#OmariCalendarDiskURL" />
+            <entry key="qaws" value="Qaws" />
+            <entry key="remove" value="Remove" />
+            <entry key="switchMusic" value="Music ON\OFF" />
+            <entry key="help" value="Help" />
+            <entry key="jadishort" value="Jdi" />
+            <entry key="dec" value="Dec" />
+            <entry key="moonMonthShort" value="Hll" />
+            <entry key="baldah" value="Albaldah" />
+            <entry key="thuraya" value="Althurayah" />
+            <entry key="Friday" value="Friday" />
+            <entry key="com.alhanah.sami.umalqura1423.desc" value="Get Um Alqura Full Capabilities to convert between this Calendar and to your toold set of other calendars you have already purchased, or what you have free." />
+            <entry key="purchases" value="Extra Components" />
+            <entry key="bolaa" value="Saad Bolaa" />
+            <entry key="com.alhanah.sami.qazwini.name" value="Muhammadi Hijri" />
+            <entry key="com.alhanah.sami.wsmi" value="Wsmi Hijri" />
+            <entry key="taraf" value="Altaraf" />
+            <entry key="com.alhanah.sami.omari.indian.extra" value="Month Lengths are fixed to 30, 29, 30,, etc but Tho-Alhija is 30 when the year is a Leap year. There are 11 Leap years in 30 years distributed with spcific year positions." />
+            <entry key="awa" value="Awa" />
+            <entry key="purchased" value="Included" />
+            <entry key="sarfah" value="Alsarfah" />
+            <entry key="com.alhanah.sami.qazwini.fajr.extra" value="Muhammadi Calender is a solar luner calendar, and has a special sequence of arabic months, and usues the Blackmoon to identify the beginning of the month." />
+            <entry key="com.alhanah.sami.omari.name" value="Hijri" />
+            <entry key="nov" value="Nov" />
+            <entry key="kis" value="Kis" />
+            <entry key="com.alhanah.sami.hebrew" value="Hebrew" />
+            <entry key="Sunday" value="Sunday" />
+            <entry key="SH" value="SH" />
+            <entry key="shw" value="Shw" />
+            <entry key="january" value="January" />
+            <entry key="com.alhanah.sami.greg" value="GregorianAD" />
+            <entry key="shv" value="Shv" />
+            <entry key="sht" value="Sht" />
+            <entry key="Stations Year" value="Stations" />
+            <entry key="New Page" value="New Tab" />
+            <entry key="expectnewrelease" value="Expect More Info in new version release soon." />
+            <entry key="Small Leap Year" value="Day Leap Year" />
+            <entry key="tshshort" value="Tsh" />
+            <entry key="com.alhanah.sami.zodiac.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ConstCalendarDiskURL" />
+            <entry key="muh" value="Muh" />
+            <entry key="shl" value="Shw" />
+            <entry key="Heb" value="Heb" />
+            <entry key="kislev" value="Kislev" />
+            <entry key="shb" value="Shb" />
+            <entry key="hanahurl" value="https://www.alhanah.com/index.php/category/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85/" />
+            <entry key="buyCell" value="Expand" />
+            <entry key="com.alhanah.sami.solarstations.name" value="Luner Stations" />
+            <entry key="com.alhanah.sami.zodiac.name" value="Nasa 13 Constullations" />
+            <entry key="allcalendars" value="All Calendars in Hana" />
+            <entry key="muharram" value="Muharram" />
+            <entry key="com.alhanah.sami.omari.habash.name" value="Hijri (HBSH)" />
+            <entry key="updateLocation" value="Update City" />
+            <entry key="com.alhanah.sami.ad" value="AD" />
+            <entry key="dbr" value="Dbr" />
+            <entry key="welcomedesc" value="Welcome to Alhanah Calendar, please choose your prefered calendar in the main screen by clicking on the current selected calendar." />
+            <entry key="aug" value="Aug" />
+            <entry key="chv" value="Chv" />
+            <entry key="com.alhanah.sami.omari.15.extra" value="Month Lengths are fixed to 30, 29, 30,, etc but Tho-Alhija is 30 when the year is a Leap year. There are 11 Leap years in 30 years distributed with spcific year positions." />
+            <entry key="hijriindianshort" value="HIn" />
+            <entry key="hutshort" value="Hut" />
+            <entry key="cheshvan" value="Cheshvan" />
+            <entry key="hamal" value="Hamal" />
+            <entry key="hagaah" value="Alhagah" />
+            <entry key="safar" value="Safar" />
+            <entry key="mizanshort" value="Mzn" />
+            <entry key="com.alhanah.sami.wsmi.desc" value="Experiece the Wasmi Hijri Calendar Coined by Hussam Almulhim and Based on the Book &quot;The Innocence of Nasi&quot; by the Wisam Ishaq Addin. The System is wide spread world wide by many enthusiasts and researchers which some follow it for religious and historical study purposes." />
+            <entry key="com.alhanah.sami.newmoon" value="Luner" />
+            <entry key="rmd" value="Rmd" />
+            <entry key="QH" value="QH" />
+            <entry key="com.alhanah.sami.byroni.name" value="Byroni Hijri" />
+            <entry key="haj" value="Haj" />
+            <entry key="sfr" value="Sfr" />
+            <entry key="Zodiac Leap Year" value="Zodiac Leap Year" />
+            <entry key="selectcity" value="Update Location" />
+            <entry key="gfr" value="Gfr" />
+            <entry key="com.alhanah.sami.dayview.name" value="Daily Full View Package" />
+            <entry key="addobran" value="Aldobran" />
+            <entry key="com.alhanah.sami.solarstations" value="Solar Stations" />
+            <entry key="com.alhanah.sami.qazwini.desc" value="The Muhammadi Calendar, or better known as the Qazwini Calendar developebed by known current Shia Cleric and Scholar, &quot;Farqad Alqazwini&quot;. This package includes the ability to convert between this calendar and any available other without limit." />
+            <entry key="com.alhanah.sami.blackmoon" value="Black Moon Cycle" />
+            <entry key="com.alhanah.sami.umalqura1423.short" value="AH" />
+            <entry key="june" value="June" />
+            <entry key="visitHelpQuestion" value="Visit Ahanah.com to learn more about thiese calendars?" />
+            <entry key="rajab" value="Rajab" />
+            <entry key="Close" value="Close" />
+            <entry key="september" value="September" />
+            <entry key="com.alhanah.sami.omari.desc" value="Hijri Calendar, or as known as the Omari Hijri Calendar used by all Muslims around the world. This package includes conversion and view capabilities between this Calendar and any other Calendar you already have in your list of packages." />
+            <entry key="Luner Year" value="Luner" />
+            <entry key="com.alhanah.sami.julian.name" value="Julian" />
+            <entry key="OH" value="OH" />
+            <entry key="bld" value="Bld" />
+            <entry key="jm2" value="JmII" />
+            <entry key="jm1" value="JmI" />
+            <entry key="bla" value="Bla" />
+            <entry key="hanaah" value="Alhanah" />
+            <entry key="com.alhanah.sami.monthview.name" value="Month View Package" />
+            <entry key="com.alhanah.sami.omari.16.name" value="Hijri (Base 16)" />
+            <entry key="Configure Calendars" value="Change Default Calendars" />
+            <entry key="rjr" value="RjR" />
+            <entry key="com.alhanah.sami.solar128.name" value="Solar Leap 128" />
+            <entry key="rjm" value="RjM" />
+            <entry key="tvt" value="Tvt" />
+            <entry key="autumn" value="Autumn" />
+            <entry key="zabana" value="Alzabana" />
+            <entry key="july" value="July" />
+            <entry key="changeLang" value="Change Language" />
+            <entry key="com.alhanah.sami.solarstations.desc" value="Many farmers, Austronemers, Poets still use Luner Station to recognize time. This will help even Historians to understand the Drift in the Skies that happened Centeries ago. Discover the Luner Station at a spicific point in time in the past of future" />
+            <entry key="com.alhanah.sami.zodiac.desc" value="Nasa Proposed a new Zodiac Sign with different start and end dates of what is common. This Calendar will shift through time as you can study how the position of each Constullation is changing through centeries." />
+            <entry key="com.alhanah.sami.omari.habash.desc" value="Add-on to convert the Hijri base (Habash), the known scientist, Leap year style, to other calendars you have in your portfolios." />
+            <entry key="Rabeah Leap Year" value="Rajab Rabeah" />
+            <entry key="com.alhanah.sami.byroni.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ByroniCalendarDiscURL" />
+            <entry key="rjb" value="Rjb" />
+            <entry key="october" value="October" />
+            <entry key="jabhah" value="Aljabhah" />
+            <entry key="cancel" value="Cancel" />
+            <entry key="oct" value="Oct" />
+            <entry key="com.alhanah.sami.omari.16" value="Hijri Omari B16" />
+            <entry key="com.alhanah.sami.omari.15" value="Hijri Omari B15" />
+            <entry key="apr" value="Apr" />
+            <entry key="nim" value="Nim" />
+            <entry key="com.alhanah.sami.byroni.desc" value="Byroni is one of the most quoted historians of Arabic History, the devised calendar system utilizes the Nasi r Leap Month that was assumed dropped in the year 10AH. This utility will help you convert between this system and other Calendar Systems in your resources." />
+            <entry key="visitHelp" value="Help?" />
+            <entry key="com.alhanah.sami.qazwini.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#QawiniCalendarDiskURL" />
+            <entry key="sawr" value="Thor" />
+            <entry key="shortSaturday" value="S" />
+            <entry key="z13s" value="Oph" />
+            <entry key="season128" value="Season as of Solar128 Year" />
+            <entry key="com.alhanah.sami.full.name" value="Full Pro Package" />
+            <entry key="com.alhanah.sami.omari.indian.name" value="Hijri(Indian)" />
+            <entry key="Saturday" value="Saturday" />
+            <entry key="z09s" value="Leo" />
+            <entry key="Enter YearDate" value="Enter Year" />
+            <entry key="Monday" value="Monday" />
+            <entry key="hut" value="Hut" />
+            <entry key="seasonfalak" value="Season as of Astronomical Calculations" />
+            <entry key="butain" value="Albutain" />
+            <entry key="sfr2" value="SfrII" />
+            <entry key="december" value="December" />
+            <entry key="zabih" value="Zbh" />
+            <entry key="febuary" value="Febuary" />
+            <entry key="com.alhanah.sami.dayview.desc" value="Shows a day view of an instant of time with all the calendars in the Hana Calendar." />
+            <entry key="com.alhanah.sami.newmoon.name" value="Crescent age at Location" />
+            <entry key="sonbola" value="Sonbolah" />
+            <entry key="z12s" value="Sco" />
+            <entry key="LC" value="LC" />
+            <entry key="sivan" value="Sivan" />
+            <entry key="jhi" value="IJH" />
+            <entry key="Luner Year Short" value="Luner Year" />
+            <entry key="dalw" value="Dalw" />
+            <entry key="z08s" value="Cnc" />
+            <entry key="S.AD" value="S.AD" />
+            <entry key="limitReached" value="Processor Limit" />
+            <entry key="sad" value="Sad" />
+            <entry key="alghfr" value="Alghfr" />
+            <entry key="com.alhanah.sami.julian.desc" value="Conversion pack for the Julian Calendar" />
+            <entry key="com.alhanah.sami.omari.15.name" value="Hijri (Base 15)" />
+            <entry key="saratanshort" value="Stn" />
+            <entry key="tsh" value="Tsh" />
+            <entry key="com.alhanah.jalili.ir.url" value="https://www.alhanah.com/index.php/category/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85/" />
+            <entry key="z11s" value="Lbr" />
+            <entry key="eluh" value="Eluh" />
+            <entry key="com.alhanah.sami.monthview.desc" value="Shows specifically a month view of all calendars you have in your resources. Easily Screen shot a conversion type of calendars." />
+            <entry key="moakhar" value="Almoakhar" />
+            <entry key="com.alhanah.sami.omari.16.desc" value="Add-on to convert Hijri (Base 16) Leap Stype, (The most Used Hijri Standard in most systems, toother calendar systems you have in your portfolio. the limit range of the conversions is based on the time space of your phone which is most likely thoughsands of year spans." />
+            <entry key="jawzashort" value="Jaw" />
+            <entry key="z07s" value="Gmn" />
+            <entry key="aqrabshort" value="Qrb" />
+            <entry key="april" value="April" />
+            <entry key="com.alhanah.sami.solar128.desc" value="This Calendar is far more accurate than the Grogorian Calendar as it utilizes the 128 year cycles for Leap Years. This holds accurate for more than 50K years, compares to the Gregorian that is accurate for 3K only, which will drift by the year 2048AD. This Calendar is a must to compare between the Tropical Year and other Claedars for the future thousands of years studies and for research purposes." />
+            <entry key="com.alhanah.sami.omari.habash.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#JulianCalendarDiskURL" />
+            <entry key="saud" value="Saad Saud" />
+            <entry key="J" value="JAD" />
+            <entry key="naaim" value="Alnaaim" />
+            <entry key="G" value="G" />
+            <entry key="thohija" value="Tho Alhija" />
+            <entry key="Big Hajj Leap Year" value="Big Hajj" />
+            <entry key="trf" value="Trf" />
+            <entry key="shevat" value="Shevat" />
+            <entry key="z10s" value="Vrg" />
+            <entry key="com.alhanah.sami.newmoon.extra" value="The Luner cresent cycle could be important if you follow the age of the moon for religious practices, otherwise, for communicating, recording, referencing, using standardized calendars is the way to go." />
+            <entry key="ddddddddd" value="Black Moon" />
+            <entry key="march" value="March" />
+            <entry key="av" value="Av" />
+            <entry key="com.alhanah.jalili.ir" value="Jalali Hijri" />
+            <entry key="about" value="About" />
+            <entry key="z06s" value="Trs" />
+            <entry key="com.alhanah.sami.sami.fixed.name" value="Sami Hijri" />
+            <entry key="haram9" value="Alharam9" />
+            <entry key="com.alhanah.sami.omari.indian" value="Hijri B(Indian)" />
+            <entry key="haram5" value="Alharam5" />
+            <entry key="hrm" value="Hrm" />
+            <entry key="jawza" value="Jawzaa" />
+            <entry key="nisan" value="Nisan" />
+            <entry key="elh" value="Elh" />
+            <entry key="mkr" value="Mkr" />
+            <entry key="com.alhanah.sami.full.desc" value="This Package includes all views, all comparison activities, full conversion capabiliies for thousands of years, this will include any added future Calendars by Default, your ticket to PRO." />
+            <entry key="com.alhanah.sami.omari.indian.desc" value="Add-on to convert between the Hijri(Indian) Leap index with other calendars in your portfolio." />
+            <entry key="com.alhanah.sami.umalqura1423.extra" value="Um Alqura Calendar is based on the calculations of the Black Moon time and the time of moon set to decide if the month is 29 or 30 days." />
+            <entry key="blackMonthShort" value="Blk" />
+            <entry key="sammak" value="Assamak" />
+            <entry key="com.alhanah.sami.omari.habash" value="Hijri B(Habash)" />
+            <entry key="Stations Leap Year" value="Station Leap" />
+            <entry key="com.alhanah.sami.solar128" value="Solar128 Leap Cycle" />
+            <entry key="tevet" value="Tevet" />
+            <entry key="z05s" value="Ars" />
+            <entry key="dddddddd" value="BM" />
+            <entry key="mkd" value="Mkd" />
+            <entry key="ikl" value="Ikll" />
+            <entry key="com.alhanah.sami.byroni" value="Byroni Hijri" />
+            <entry key="shaaban" value="Shaaban" />
+            <entry key="feb" value="Feb" />
+            <entry key="zobrah" value="Alzubrah" />
+            <entry key="com.alhanah.sami.newmoon.desc" value="Gives you the ability to track the cresent visibility at your location, important if you follow and monitor the moon's age for your times worship." />
+            <entry key="tammuz" value="Tammuz" />
+            <entry key="adar2" value="AdarII" />
+            <entry key="svn" value="Svn" />
+            <entry key="seasonjalali" value="Season as of Jalali Year" />
+        </lang>
+    </l10n>
+    <image name="MetalButton.borderBottom_1.png" type="multi"  />
+    <image name="MetalButton.borderBottomL_1.png" type="multi"  />
+    <image name="MetalButton.borderBottomR_1.png" type="multi"  />
+    <image name="MetalButton.borderCenter_1.png" type="multi"  />
+    <image name="MetalButton.borderLeft_1.png" type="multi"  />
+    <image name="MetalButton.borderRight_1.png" type="multi"  />
+    <image name="MetalButton.borderTop_1.png" type="multi"  />
+    <image name="MetalButton.borderTopL_1.png" type="multi"  />
+    <image name="MetalButton.borderTopR_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottom_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="MetalButton.press#borderCenter_1.png" type="multi"  />
+    <image name="MetalButton.press#borderLeft_1.png" type="multi"  />
+    <image name="MetalButton.press#borderRight_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTop_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTopL_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTopR_1.png" type="multi"  />
+    <image name="MultiButton.borderBottom_1.png" type="multi"  />
+    <image name="MultiButton.borderBottomL_1.png" type="multi"  />
+    <image name="MultiButton.borderBottomR_1.png" type="multi"  />
+    <image name="MultiButton.borderCenter_1.png" type="multi"  />
+    <image name="MultiButton.borderLeft_1.png" type="multi"  />
+    <image name="MultiButton.borderRight_1.png" type="multi"  />
+    <image name="MultiButton.borderTop_1.png" type="multi"  />
+    <image name="MultiButton.borderTopL_1.png" type="multi"  />
+    <image name="MultiButton.borderTopR_1.png" type="multi"  />
+    <theme name="myTest">
+        <val key="@calTitleDayStyleBool" value="true" />
+        <val key="@calTransitionVertBool" value="false" />
+        <val key="@calendarLeftImage" value="calendar_arrow_left@2x.png" />
+        <val key="@calendarRightImage" value="calendar_arrow_right@2x.png" />
+        <val key="@includeNativeBool" value="true" />
+        <border key="BackCommand.border" type="imageH" i1="back_left.png2" i2="back_right.png2" i3="back_center.png2" />
+        <val key="BackCommand.fgColor" value="0" />
+        <border key="BackCommand.press#border" type="imageH" i1="back_left.png2" i2="back_right.png2" i3="back_center.png2" />
+        <val key="BackCommand.press#fgColor" value="0" />
+        <val key="BackCommand.press#textDecoration" value="0" />
+        <val key="BackCommand.press#transparency" value="0" />
+        <border key="BackCommand.sel#border" type="imageH" i1="back_left.png2" i2="back_right.png2" i3="back_center.png2" />
+        <val key="BackCommand.sel#fgColor" value="0" />
+        <val key="BackCommand.sel#textDecoration" value="0" />
+        <val key="BackCommand.sel#transparency" value="0" />
+        <val key="BackCommand.textDecoration" value="0" />
+        <val key="BackCommand.transparency" value="0" />
+        <border key="Button.border" type="image" i1="Button.borderTop_1.png2" i2="Button.borderBottom_1.png2" i3="Button.borderLeft_1.png2" i4="Button.borderRight_1.png2" i5="Button.borderTopL_1.png2" i6="Button.borderTopR_1.png2" i7="Button.borderBottomL_1.png2" i8="Button.borderBottomR_1.png2" i9="Button.borderCenter_1.png2" />
+        <val key="Button.fgColor" value="0" />
+        <font key="Button.font" type="system" face="0" style="1" size="16" />
+        <border key="Button.press#border" type="image" i1="Button.press#borderTop_1.png5" i2="Button.press#borderBottom_1.png5" i3="Button.press#borderLeft_1.png5" i4="Button.press#borderRight_1.png5" i5="Button.press#borderTopL_1.png5" i6="Button.press#borderTopR_1.png5" i7="Button.press#borderBottomL_1.png5" i8="Button.press#borderBottomR_1.png5" i9="Button.press#borderCenter_1.png5" />
+        <val key="Button.press#fgColor" value="ffffff" />
+        <font key="Button.press#font" type="system" face="0" style="1" size="16" />
+        <val key="Button.press#textDecoration" value="8" />
+        <val key="Button.press#transparency" value="0" />
+        <border key="Button.sel#border" type="image" i1="Button.borderTop_1.png2" i2="Button.borderBottom_1.png2" i3="Button.borderLeft_1.png2" i4="Button.borderRight_1.png2" i5="Button.borderTopL_1.png2" i6="Button.borderTopR_1.png2" i7="Button.borderBottomL_1.png2" i8="Button.borderBottomR_1.png2" i9="Button.borderCenter_1.png2" />
+        <val key="Button.sel#fgColor" value="ffffff" />
+        <font key="Button.sel#font" type="system" face="0" style="1" size="16" />
+        <val key="Button.sel#textDecoration" value="8" />
+        <val key="Button.sel#transparency" value="0" />
+        <val key="Button.textDecoration" value="16" />
+        <val key="Button.transparency" value="0" />
+        <border key="CalcButton.border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="CalcButton.derive" value="Button" />
+        <val key="CalcButton.dis#derive" value="CalcButton." />
+        <val key="CalcButton.fgColor" value="ffffff" />
+        <val key="CalcButton.marUnit" value="2,2,2,2" />
+        <val key="CalcButton.margin" value="1.0,1.0,1.0,1.0" />
+        <border key="CalcButton.press#border" type="image" i1="CalcButton.press#borderTop_1.png" i2="CalcButton.press#borderBottom_1.png" i3="CalcButton.press#borderLeft_1.png" i4="CalcButton.press#borderRight_1.png" i5="CalcButton.press#borderTopL_1.png" i6="CalcButton.press#borderTopR_1.png" i7="CalcButton.press#borderBottomL_1.png" i8="CalcButton.press#borderBottomR_1.png" i9="CalcButton.press#borderCenter_1.png" />
+        <val key="CalcButton.press#derive" value="Button" />
+        <val key="CalcButton.press#fgColor" value="ffffff" />
+        <val key="CalcButton.press#marUnit" value="2,2,2,2" />
+        <val key="CalcButton.press#margin" value="1.0,1.0,1.0,1.0" />
+        <val key="CalcButton.press#textDecoration" value="8" />
+        <val key="CalcButton.press#transparency" value="0" />
+        <border key="CalcButton.sel#border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="CalcButton.sel#derive" value="Button" />
+        <val key="CalcButton.sel#fgColor" value="ffffff" />
+        <val key="CalcButton.sel#marUnit" value="2,2,2,2" />
+        <val key="CalcButton.sel#margin" value="1.0,1.0,1.0,1.0" />
+        <val key="CalcButton.sel#textDecoration" value="8" />
+        <val key="CalcButton.sel#transparency" value="0" />
+        <val key="CalcButton.textDecoration" value="8" />
+        <val key="CalcButton.transparency" value="0" />
+        <val key="CalculatorInput.align" value="3" />
+        <border key="CalculatorInput.border" type="image" i1="CalculatorInput.borderTop_1.png" i2="CalculatorInput.borderBottom_1.png" i3="CalculatorInput.borderLeft_1.png" i4="CalculatorInput.borderRight_1.png" i5="CalculatorInput.borderTopL_1.png" i6="CalculatorInput.borderTopR_1.png" i7="CalculatorInput.borderBottomL_1.png" i8="CalculatorInput.borderBottomR_1.png" i9="CalculatorInput.borderCenter_1.png" />
+        <val key="CalculatorInput.derive" value="TextField" />
+        <val key="CalculatorInput.fgColor" value="cc0033" />
+        <font key="CalculatorInput.font" type="system" face="0" style="1" size="16" />
+        <val key="CalculatorInput.marUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.margin" value="1.0,4.0,1.0,1.0" />
+        <val key="CalculatorInput.padUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.padding" value="1.0,1.0,2.0,2.0" />
+        <val key="CalculatorInput.sel#align" value="3" />
+        <border key="CalculatorInput.sel#border" type="image" i1="CalculatorInput.borderTop_1.png" i2="CalculatorInput.borderBottom_1.png" i3="CalculatorInput.borderLeft_1.png" i4="CalculatorInput.borderRight_1.png" i5="CalculatorInput.borderTopL_1.png" i6="CalculatorInput.borderTopR_1.png" i7="CalculatorInput.borderBottomL_1.png" i8="CalculatorInput.borderBottomR_1.png" i9="CalculatorInput.borderCenter_1.png" />
+        <val key="CalculatorInput.sel#derive" value="TextField" />
+        <val key="CalculatorInput.sel#fgColor" value="cc0033" />
+        <font key="CalculatorInput.sel#font" type="system" face="0" style="1" size="16" />
+        <val key="CalculatorInput.sel#marUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.sel#margin" value="1.0,4.0,1.0,1.0" />
+        <val key="CalculatorInput.sel#padUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.sel#padding" value="1.0,1.0,2.0,2.0" />
+        <val key="CalculatorInput.sel#transparency" value="0" />
+        <val key="CalculatorInput.transparency" value="0" />
+        <val key="Calendar.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Calendar.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="Calendar.transparency" value="0" />
+        <border key="CalendarDate.border" type="image" i1="CalendarDate.borderTop_2.png" i2="CalendarDate.borderBottom_2.png" i3="CalendarDate.borderLeft_2.png" i4="CalendarDate.borderRight_2.png" i5="CalendarDate.borderTopL_2.png" i6="CalendarDate.borderTopR_2.png" i7="CalendarDate.borderBottomL_2.png" i8="CalendarDate.borderBottomR_2.png" i9="CalendarDate.borderCenter_2.png" />
+        <val key="CalendarDate.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="CalendarDate.padUnit" value="2,2,2,2" />
+        <val key="CalendarDate.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="CalendarDate.transparency" value="0" />
+        <val key="CalendarDateLabel.align" value="4" />
+        <val key="CalendarDateLabel.fgColor" value="0" />
+        <font key="CalendarDateLabel.font" type="system" face="0" style="1" size="16" />
+        <val key="CalendarDateLabel.textDecoration" value="16" />
+        <val key="CalendarDateLabel.transparency" value="0" />
+        <val key="CalendarDay.bgColor" value="ffffff" />
+        <border key="CalendarDay.border" type="image" i1="CalendarDay.borderTop_2.png" i2="CalendarDay.borderBottom_2.png" i3="CalendarDay.borderLeft_2.png" i4="CalendarDay.borderRight_2.png" i5="CalendarDay.borderTopL_2.png" i6="CalendarDay.borderTopR_2.png" i7="CalendarDay.borderBottomL_2.png" i8="CalendarDay.borderBottomR_2.png" i9="CalendarDay.borderCenter_2.png" />
+        <val key="CalendarDay.dis#align" value="4" />
+        <val key="CalendarDay.dis#bgColor" value="ffffff" />
+        <val key="CalendarDay.dis#derive" value="CalendarDay" />
+        <val key="CalendarDay.dis#fgColor" value="cccccc" />
+        <val key="CalendarDay.dis#transparency" value="255" />
+        <val key="CalendarDay.fgColor" value="5e5e5e" />
+        <val key="CalendarDay.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="CalendarDay.padUnit" value="2,2,2,2" />
+        <val key="CalendarDay.padding" value="2.0,2.0,1.0,1.0" />
+        <val key="CalendarDay.press#bgColor" value="ffffcc" />
+        <val key="CalendarDay.press#derive" value="CalendarDay" />
+        <val key="CalendarDay.sel#bgColor" value="ffcccc" />
+        <val key="CalendarDay.sel#derive" value="CalendarDay" />
+        <val key="CalendarDay.transparency" value="255" />
+        <border key="CalendarDayArea.border" type="image" i1="CalendarDayArea.borderTop_1.png" i2="CalendarDayArea.borderBottom_1.png" i3="CalendarDayArea.borderLeft_1.png" i4="CalendarDayArea.borderRight_1.png" i5="CalendarDayArea.borderTopL_1.png" i6="CalendarDayArea.borderTopR_1.png" i7="CalendarDayArea.borderBottomL_1.png" i8="CalendarDayArea.borderBottomR_1.png" i9="CalendarDayArea.borderCenter_1.png" />
+        <val key="CalendarDayArea.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="CalendarDayArea.padUnit" value="2,2,2,2" />
+        <val key="CalendarDayArea.padding" value="0.0,2.0,1.0,1.0" />
+        <val key="CalendarFrame.transparency" value="0" />
+        <val key="CalendarLeft.dis#derive" value="CalendarLeft." />
+        <val key="CalendarLeft.press#derive" value="CalendarLeft" />
+        <val key="CalendarLeft.press#transparency" value="0" />
+        <val key="CalendarLeft.sel#derive" value="CalendarLeft." />
+        <val key="CalendarLeft.transparency" value="0" />
+        <val key="CalendarRight.dis#derive" value="CalendarRight." />
+        <val key="CalendarRight.press#derive" value="CalendarRight" />
+        <val key="CalendarRight.press#transparency" value="0" />
+        <val key="CalendarRight.sel#derive" value="CalendarRight." />
+        <val key="CalendarRight.transparency" value="0" />
+        <val key="CalendarSelectedDay.bgColor" value="d32e2e" />
+        <border key="CalendarSelectedDay.border" type="empty" />
+        <val key="CalendarSelectedDay.dis#derive" value="CalendarSelectedDay." />
+        <val key="CalendarSelectedDay.fgColor" value="ffffff" />
+        <val key="CalendarSelectedDay.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="CalendarSelectedDay.press#bgColor" value="0" />
+        <val key="CalendarSelectedDay.press#derive" value="CalendarSelectedDay" />
+        <val key="CalendarSelectedDay.sel#derive" value="CalendarSelectedDay" />
+        <val key="CalendarSelectedDay.textDecoration" value="8" />
+        <val key="CalendarSelectedDay.transparency" value="255" />
+        <val key="CalendarTitle.bgColor" value="ffffff" />
+        <val key="CalendarTitle.fgColor" value="0" />
+        <font key="CalendarTitle.font" type="system" face="0" style="1" size="8" />
+        <val key="CalendarTitle.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="CalendarTitle.padUnit" value="2,2,2,2" />
+        <val key="CalendarTitle.padding" value="2.0,2.0,1.0,1.0" />
+        <val key="CalendarTitle.textDecoration" value="16" />
+        <val key="CalendarTitle.transparency" value="0" />
+        <border key="CalendarTitleArea.border" type="image" i1="CalendarTitleArea.borderTop_3.png" i2="CalendarTitleArea.borderBottom_3.png" i3="CalendarTitleArea.borderLeft_3.png" i4="CalendarTitleArea.borderRight_3.png" i5="CalendarTitleArea.borderTopL_3.png" i6="CalendarTitleArea.borderTopR_3.png" i7="CalendarTitleArea.borderBottomL_3.png" i8="CalendarTitleArea.borderBottomR_3.png" i9="CalendarTitleArea.borderCenter_3.png" />
+        <val key="CalendarTitleArea.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="CheckBox.fgColor" value="0" />
+        <val key="CheckBox.press#fgColor" value="0" />
+        <val key="CheckBox.press#transparency" value="0" />
+        <val key="CheckBox.sel#fgColor" value="0" />
+        <val key="CheckBox.sel#transparency" value="0" />
+        <val key="CheckBox.transparency" value="0" />
+        <val key="ClearButton.dis#derive" value="ClearButton." />
+        <border key="ClearButton.press#border" type="image" i1="ClearButton.press#borderTop_1.png" i2="ClearButton.press#borderBottom_1.png" i3="ClearButton.press#borderLeft_1.png" i4="ClearButton.press#borderRight_1.png" i5="ClearButton.press#borderTopL_1.png" i6="ClearButton.press#borderTopR_1.png" i7="ClearButton.press#borderBottomL_1.png" i8="ClearButton.press#borderBottomR_1.png" i9="ClearButton.press#borderCenter_1.png" />
+        <val key="ClearButton.press#derive" value="CalcButton" />
+        <border key="ClearButton.sel#border" type="image" i1="ClearButton.borderTop_1.png" i2="ClearButton.borderBottom_1.png" i3="ClearButton.borderLeft_1.png" i4="ClearButton.borderRight_1.png" i5="ClearButton.borderTopL_1.png" i6="ClearButton.borderTopR_1.png" i7="ClearButton.borderBottomL_1.png" i8="ClearButton.borderBottomR_1.png" i9="ClearButton.borderCenter_1.png" />
+        <val key="ClearButton.sel#derive" value="CalcButton" />
+        <val key="Container.transparency" value="0" />
+        <val key="ContentPane.transparency" value="0" />
+        <val key="DateViewCell.bgColor" value="0" />
+        <gradient key="DateViewCell.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="DateViewCell.bgType" value="0" />
+        <border key="DateViewCell.border" type="bevelLowered" thickness="2.0" color="0" colorB="0" colorC="0" colorD="0" />
+        <val key="DateViewCell.derive" value="Button" />
+        <val key="DateViewCell.fgColor" value="ffffff" />
+        <font key="DateViewCell.font" type="system" face="0" style="0" size="8" />
+        <val key="DateViewCell.marUnit" value="2,2,2,2" />
+        <val key="DateViewCell.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="DateViewCell.textDecoration" value="8" />
+        <val key="DateViewCell.transparency" value="200" />
+        <val key="Emblem.sel#transparency" value="0" />
+        <val key="Emblem.transparency" value="0" />
+        <border key="FloatingActionButton.border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="FloatingActionButton.derive" value="Button" />
+        <val key="FloatingActionButton.fgColor" value="ffffff" />
+        <val key="FloatingActionButton.marUnit" value="2,2,2,2" />
+        <val key="FloatingActionButton.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="FloatingActionButton.textDecoration" value="8" />
+        <val key="FloatingActionButton.transparency" value="0" />
+        <border key="FloatingActionText.border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="FloatingActionText.derive" value="Button" />
+        <val key="FloatingActionText.fgColor" value="ffffff" />
+        <val key="FloatingActionText.marUnit" value="2,2,2,2" />
+        <val key="FloatingActionText.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="FloatingActionText.textDecoration" value="8" />
+        <val key="FloatingActionText.transparency" value="0" />
+        <val key="Form.bgImage" value="tile.jpg" />
+        <val key="Form.bgType" value="2" />
+        <border key="Form.border" type="empty" />
+        <val key="Heading.align" value="4" />
+        <gradient key="Heading.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="Heading.bgType" value="0" />
+        <border key="Heading.border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="Heading.fgColor" value="ffffff" />
+        <font key="Heading.font" type="system" face="0" style="1" size="16" />
+        <val key="Heading.marUnit" value="2,2,2,2" />
+        <val key="Heading.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="Heading.textDecoration" value="8" />
+        <val key="Heading.transparency" value="0" />
+        <val key="Label.fgColor" value="0" />
+        <val key="Label.transparency" value="0" />
+        <val key="LabelTrans.align" value="4" />
+        <val key="LabelTrans.bgColor" value="0" />
+        <gradient key="LabelTrans.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="LabelTrans.bgType" value="0" />
+        <border key="LabelTrans.border" type="empty" />
+        <val key="LabelTrans.derive" value="Label" />
+        <val key="LabelTrans.fgColor" value="ffffff" />
+        <val key="LabelTrans.transparency" value="0" />
+        <border key="List.border" type="empty" />
+        <val key="List.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="List.padding" value="0.0,0.0,0.0,0.0" />
+        <border key="List.sel#border" type="empty" />
+        <val key="List.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="List.sel#padding" value="0.0,0.0,0.0,0.0" />
+        <border key="MetalButton.border" type="image" i1="MetalButton.borderTop_1.png" i2="MetalButton.borderBottom_1.png" i3="MetalButton.borderLeft_1.png" i4="MetalButton.borderRight_1.png" i5="MetalButton.borderTopL_1.png" i6="MetalButton.borderTopR_1.png" i7="MetalButton.borderBottomL_1.png" i8="MetalButton.borderBottomR_1.png" i9="MetalButton.borderCenter_1.png" />
+        <val key="MetalButton.derive" value="Button" />
+        <border key="MetalButton.press#border" type="image" i1="MetalButton.press#borderTop_1.png" i2="MetalButton.press#borderBottom_1.png" i3="MetalButton.press#borderLeft_1.png" i4="MetalButton.press#borderRight_1.png" i5="MetalButton.press#borderTopL_1.png" i6="MetalButton.press#borderTopR_1.png" i7="MetalButton.press#borderBottomL_1.png" i8="MetalButton.press#borderBottomR_1.png" i9="MetalButton.press#borderCenter_1.png" />
+        <val key="MetalButton.press#derive" value="Button" />
+        <val key="MetalButton.press#fgColor" value="ffffff" />
+        <val key="MetalButton.press#textDecoration" value="8" />
+        <border key="MetalButton.sel#border" type="image" i1="MetalButton.borderTop_1.png" i2="MetalButton.borderBottom_1.png" i3="MetalButton.borderLeft_1.png" i4="MetalButton.borderRight_1.png" i5="MetalButton.borderTopL_1.png" i6="MetalButton.borderTopR_1.png" i7="MetalButton.borderBottomL_1.png" i8="MetalButton.borderBottomR_1.png" i9="MetalButton.borderCenter_1.png" />
+        <val key="MetalButton.sel#derive" value="Button" />
+        <val key="MetalButton.sel#fgColor" value="ffffff" />
+        <val key="MetalButton.sel#textDecoration" value="8" />
+        <val key="MonthView.margin" value="0.0,1.0,0.0,0.0" />
+        <val key="MonthView.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="MonthView.transparency" value="0" />
+        <val key="MultiButton.align" value="4" />
+        <border key="MultiButton.border" type="image" i1="MultiButton.borderTop_1.png" i2="MultiButton.borderBottom_1.png" i3="MultiButton.borderLeft_1.png" i4="MultiButton.borderRight_1.png" i5="MultiButton.borderTopL_1.png" i6="MultiButton.borderTopR_1.png" i7="MultiButton.borderBottomL_1.png" i8="MultiButton.borderBottomR_1.png" i9="MultiButton.borderCenter_1.png" />
+        <val key="MultiButton.fgColor" value="ffffff" />
+        <val key="MultiButton.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="MultiButton.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="MultiButtonFocus.sel#bgColor" value="0" />
+        <val key="MultiButtonFocus.sel#transparency" value="100" />
+        <val key="MultiLine1.align" value="4" />
+        <val key="MultiLine1.fgColor" value="cccccc" />
+        <font key="MultiLine1.font" type="system" face="0" style="1" size="16" />
+        <val key="MultiLine1.sel#derive" value="MultiLine1" />
+        <val key="MultiLine1.sel#fgColor" value="ffffff" />
+        <val key="MultiLine1.sel#transparency" value="0" />
+        <val key="MultiLine1.transparency" value="0" />
+        <val key="MultiLine2.align" value="4" />
+        <val key="MultiLine2.fgColor" value="cccccc" />
+        <font key="MultiLine2.font" type="system" face="0" style="0" size="16" />
+        <val key="MultiLine2.padUnit" value="2,2,2,2" />
+        <val key="MultiLine2.padding" value="0.0,0.0,1.0,1.0" />
+        <val key="MultiLine2.press#fgColor" value="ffffff" />
+        <font key="MultiLine2.press#font" type="system" face="0" style="0" size="8" />
+        <val key="MultiLine2.press#padUnit" value="2,2,2,2" />
+        <val key="MultiLine2.press#padding" value="0.0,0.0,1.0,1.0" />
+        <val key="MultiLine2.press#transparency" value="0" />
+        <val key="MultiLine2.sel#fgColor" value="ffffff" />
+        <font key="MultiLine2.sel#font" type="system" face="0" style="0" size="8" />
+        <val key="MultiLine2.sel#padUnit" value="2,2,2,2" />
+        <val key="MultiLine2.sel#padding" value="0.0,0.0,1.0,1.0" />
+        <val key="MultiLine2.sel#transparency" value="0" />
+        <val key="MultiLine2.transparency" value="0" />
+        <val key="MultiLine3.align" value="4" />
+        <val key="MultiLine3.fgColor" value="cccccc" />
+        <font key="MultiLine3.font" type="system" face="0" style="0" size="16" />
+        <val key="MultiLine3.padUnit" value="2,2,2,2" />
+        <val key="MultiLine3.padding" value="0.0,0.0,1.0,1.0" />
+        <val key="MultiLine3.transparency" value="0" />
+        <val key="MyButton.align" value="4" />
+        <gradient key="MyButton.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="MyButton.bgType" value="0" />
+        <border key="MyButton.border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="ClearButton.press#borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="ClearButton.borderCenter_1.png" />
+        <val key="MyButton.derive" value="Button" />
+        <val key="MyButton.fgColor" value="ffffff" />
+        <font key="MyButton.font" type="system" face="0" style="1" size="16" />
+        <val key="MyButton.marUnit" value="2,2,2,2" />
+        <val key="MyButton.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="MyButton.textDecoration" value="8" />
+        <val key="MyButton.transparency" value="0" />
+        <val key="MyCalendarDay.bgColor" value="ffffff" />
+        <gradient key="MyCalendarDay.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="MyCalendarDay.bgType" value="0" />
+        <border key="MyCalendarDay.border" type="empty" />
+        <val key="MyCalendarDay.fgColor" value="0" />
+        <font key="MyCalendarDay.font" type="system" face="0" style="0" size="8" />
+        <val key="MyCalendarDay.transparency" value="0" />
+        <val key="MyDateViewCell.bgColor" value="0" />
+        <gradient key="MyDateViewCell.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="MyDateViewCell.bgType" value="0" />
+        <border key="MyDateViewCell.border" type="bevelLowered" thickness="2.0" color="0" colorB="0" colorC="0" colorD="0" />
+        <val key="MyDateViewCell.derive" value="Button" />
+        <val key="MyDateViewCell.fgColor" value="ffffff" />
+        <font key="MyDateViewCell.font" type="system" face="0" style="0" size="8" />
+        <val key="MyDateViewCell.marUnit" value="2,2,2,2" />
+        <val key="MyDateViewCell.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="MyDateViewCell.textDecoration" value="8" />
+        <val key="MyDateViewCell.transparency" value="200" />
+        <val key="PaddedContainer.derive" value="Container" />
+        <val key="PaddedContainer.padUnit" value="2,2,2,2" />
+        <val key="PaddedContainer.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="RadioButton.fgColor" value="cccccc" />
+        <val key="RadioButton.press#fgColor" value="0" />
+        <val key="RadioButton.press#transparency" value="0" />
+        <val key="RadioButton.sel#fgColor" value="cccccc" />
+        <val key="RadioButton.sel#transparency" value="0" />
+        <val key="Scroll.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Scroll.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="Scroll.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Scroll.sel#padding" value="0.0,0.0,0.0,0.0" />
+        <val key="ScrollThumb.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="ScrollThumb.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="ScrollThumb.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="ScrollThumb.sel#padding" value="0.0,0.0,0.0,0.0" />
+        <val key="SideNavigationPanel.bgColor" value="ffffff" />
+        <gradient key="SideNavigationPanel.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="SideNavigationPanel.bgType" value="0" />
+        <border key="SideNavigationPanel.border" type="empty" />
+        <val key="SideNavigationPanel.fgColor" value="0" />
+        <val key="SideNavigationPanel.transparency" value="150" />
+        <border key="Slider.border" type="image" i1="Slider.borderTop_2.png" i2="Slider.borderBottom_2.png" i3="Slider.borderLeft_2.png" i4="Slider.borderRight_2.png" i5="Slider.borderTopL_2.png" i6="Slider.borderTopR_2.png" i7="Slider.borderBottomL_2.png" i8="Slider.borderBottomR_2.png" i9="Slider.borderCenter_2.png" />
+        <val key="Slider.dis#derive" value="Slider." />
+        <val key="Slider.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Slider.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="Slider.press#derive" value="Slider." />
+        <val key="Slider.sel#derive" value="Slider" />
+        <val key="Slider.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Slider.sel#padding" value="0.0,0.0,0.0,0.0" />
+        <val key="Slider.sel#transparency" value="0" />
+        <val key="Slider.transparency" value="0" />
+        <border key="SliderFull.border" type="image" i1="Slider.borderTop_2.png" i2="Slider.borderBottom_2.png" i3="Slider.borderLeft_2.png" i4="Slider.borderRight_2.png" i5="Slider.borderTopL_2.png" i6="Slider.borderTopR_2.png" i7="Slider.borderBottomL_2.png" i8="Slider.borderBottomR_2.png" i9="Slider.borderCenter_2.png" />
+        <val key="SliderFull.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="SliderFull.padding" value="0.0,0.0,0.0,0.0" />
+        <gradient key="SliderFull.sel#bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="SliderFull.sel#bgType" value="0" />
+        <border key="SliderFull.sel#border" type="empty" />
+        <val key="SliderFull.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="SliderFull.sel#padding" value="0.0,0.0,0.0,0.0" />
+        <val key="SliderFull.sel#transparency" value="0" />
+        <val key="SliderFull.transparency" value="0" />
+        <val key="SoftButton.bgColor" value="9999ff" />
+        <gradient key="SoftButton.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="SoftButton.bgType" value="0" />
+        <border key="SoftButton.border" type="empty" />
+        <val key="SoftButton.fgColor" value="ffff33" />
+        <val key="SoftButton.transparency" value="150" />
+        <font key="Tab.font" type="system" face="0" style="0" size="8" />
+        <val key="Tab.transparency" value="0" />
+        <val key="Tabs.transparency" value="0" />
+        <val key="TabsContainer.transparency" value="0" />
+        <border key="TextField.border" type="image" i1="TextField.borderTop_1.png5" i2="TextField.borderBottom_1.png5" i3="TextField.borderLeft_1.png5" i4="TextField.borderRight_1.png5" i5="TextField.borderTopL_1.png5" i6="TextField.borderTopR_1.png5" i7="TextField.borderBottomL_1.png5" i8="TextField.borderBottomR_1.png5" i9="TextField.borderCenter_1.png5" />
+        <val key="TextField.dis#derive" value="TextField." />
+        <val key="TextField.fgColor" value="ffffff" />
+        <font key="TextField.font" type="system" face="0" style="1" size="0" />
+        <val key="TextField.press#derive" value="TextField." />
+        <border key="TextField.sel#border" type="image" i1="TextField.borderTop_1.png5" i2="TextField.borderBottom_1.png5" i3="TextField.borderLeft_1.png5" i4="TextField.borderRight_1.png5" i5="TextField.borderTopL_1.png5" i6="TextField.borderTopR_1.png5" i7="TextField.borderBottomL_1.png5" i8="TextField.borderBottomR_1.png5" i9="TextField.borderCenter_1.png5" />
+        <val key="TextField.sel#fgColor" value="ffffff" />
+        <font key="TextField.sel#font" type="system" face="0" style="1" size="0" />
+        <val key="TextField.sel#transparency" value="0" />
+        <val key="TextField.transparency" value="0" />
+        <val key="Title.fgColor" value="0" />
+        <font key="Title.font" type="system" face="0" style="1" size="16" />
+        <val key="Title.textDecoration" value="16" />
+        <val key="Title.transparency" value="0" />
+        <val key="TitleArea.bgImage" value="navbar@2x.png" />
+        <val key="TitleArea.bgType" value="2" />
+        <border key="TitleArea.border" type="empty" />
+        <border key="TitleCommand.border" type="imageH" i1="command_left.png" i2="command_right.png" i3="command_center.png" />
+        <val key="TitleCommand.derive" value="BackCommand" />
+        <val key="TitleCommand.fgColor" value="0" />
+        <val key="TitleCommand.marUnit" value="2,2,2,2" />
+        <val key="TitleCommand.margin" value="0.0,0.0,1.0,1.0" />
+        <border key="TitleCommand.press#border" type="imageH" i1="command_left.png" i2="command_right.png" i3="command_center.png" />
+        <val key="TitleCommand.press#derive" value="BackCommand" />
+        <val key="TitleCommand.press#fgColor" value="0" />
+        <val key="TitleCommand.press#marUnit" value="2,2,2,2" />
+        <val key="TitleCommand.press#margin" value="0.0,0.0,1.0,1.0" />
+        <val key="TitleCommand.press#transparency" value="0" />
+        <border key="TitleCommand.sel#border" type="imageH" i1="command_left.png" i2="command_right.png" i3="command_center.png" />
+        <val key="TitleCommand.sel#derive" value="BackCommand" />
+        <val key="TitleCommand.sel#fgColor" value="0" />
+        <val key="TitleCommand.sel#marUnit" value="2,2,2,2" />
+        <val key="TitleCommand.sel#margin" value="0.0,0.0,1.0,1.0" />
+        <val key="TitleCommand.sel#transparency" value="0" />
+        <val key="TitleCommand.transparency" value="0" />
+        <val key="seasonLabel.bgColor" value="ffffff" />
+        <border key="seasonLabel.border" type="image" i1="CalendarDay.borderTop_2.png" i2="CalendarDay.borderBottom_2.png" i3="CalendarDay.borderLeft_2.png" i4="CalendarDay.borderRight_2.png" i5="CalendarDay.borderTopL_2.png" i6="CalendarDay.borderTopR_2.png" i7="CalendarDay.borderBottomL_2.png" i8="CalendarDay.borderBottomR_2.png" i9="CalendarDay.borderCenter_2.png" />
+        <val key="seasonLabel.fgColor" value="5e5e5e" />
+        <val key="seasonLabel.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="seasonLabel.padUnit" value="2,2,2,2" />
+        <val key="seasonLabel.padding" value="2.0,2.0,1.0,1.0" />
+        <val key="seasonLabel.transparency" value="255" />
+    </theme>
+    <image name="navbar@2x.png" type="multi"  />
+    <image name="Slider.borderBottom_2.png" type="multi"  />
+    <image name="Slider.borderBottomL_2.png" type="multi"  />
+    <image name="Slider.borderBottomR_2.png" type="multi"  />
+    <image name="Slider.borderCenter_2.png" type="multi"  />
+    <image name="Slider.borderLeft_2.png" type="multi"  />
+    <image name="Slider.borderRight_2.png" type="multi"  />
+    <image name="Slider.borderTop_2.png" type="multi"  />
+    <image name="Slider.borderTopL_2.png" type="multi"  />
+    <image name="Slider.borderTopR_2.png" type="multi"  />
+    <image name="TextField.borderBottom_1.png5" type="multi"  />
+    <image name="TextField.borderBottomL_1.png5" type="multi"  />
+    <image name="TextField.borderBottomR_1.png5" type="multi"  />
+    <image name="TextField.borderCenter_1.png5" type="multi"  />
+    <image name="TextField.borderLeft_1.png5" type="multi"  />
+    <image name="TextField.borderRight_1.png5" type="multi"  />
+    <image name="TextField.borderTop_1.png5" type="multi"  />
+    <image name="TextField.borderTopL_1.png5" type="multi"  />
+    <image name="TextField.borderTopR_1.png5" type="multi"  />
+    <image name="tile.jpg"  />
+</resource>
