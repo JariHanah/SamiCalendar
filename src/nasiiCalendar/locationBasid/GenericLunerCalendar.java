@@ -21,7 +21,7 @@ import org.shredzone.commons.suncalc.MoonPhase;
 
 /**
  *
- * @author Hussam
+ * @author Hussam aljari
  */
 public class GenericLunerCalendar extends LunerCalendar {
 
