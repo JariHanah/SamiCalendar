@@ -228,11 +228,8 @@ public class BaseBuilder<T> implements GenericParameter<T>, LocationParameter<T>
 
     @Override
     public T copy() {
-        try {
-            return (T) clone();
-        } catch (CloneNotSupportedException ex) {
-            throw new RuntimeException(ex); // Should never be thrown anyway
-        }
+          return (T) clone();
+       
     }
 
     /**
@@ -327,7 +324,7 @@ public class BaseBuilder<T> implements GenericParameter<T>, LocationParameter<T>
     }
 
     
-    protected Object clone() throws CloneNotSupportedException {
+    protected Object clone()  {
         BaseBuilder<T> b = new BaseBuilder<>();
         b.height=this.height;
         b.lat=this.lat;

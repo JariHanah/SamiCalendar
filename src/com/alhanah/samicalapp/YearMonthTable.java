@@ -159,6 +159,7 @@ public class YearMonthTable extends Container implements ComponentWithHeader, Ac
                 if (bd.getCalendar().getYearType(bd).getSubPeriods().get(0).equals(bd.getCalendar().getMonthName(bd))) {
                     buttonRenderer.setText(bd.getYear() + buttonRenderer.getText());
                 }
+                myEditor.prepareSmallLeap(buttonRenderer, bd);
                 myEditor.prepareReligious(buttonRenderer, bd);
                 myEditor.prepareTodayMonth(buttonRenderer, bd);
 
@@ -168,7 +169,7 @@ public class YearMonthTable extends Container implements ComponentWithHeader, Ac
 
                 }
                 if (column > 1) {
-                    buttonRenderer.setText(buttonRenderer.getText() + " " + bd.getDay());
+                    buttonRenderer.setText(buttonRenderer.getText() + " " + bd.getDay()+" ("+bd.getCalendar().getMonthLength(bd)+")");
                 }
                 if (bd.getCalendar() instanceof LunerLocationCalendar) {
                     String x = getT("minutesmall") + ":" + bd.getMinute();

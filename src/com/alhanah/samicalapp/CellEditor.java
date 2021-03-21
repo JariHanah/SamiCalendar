@@ -403,4 +403,10 @@ public class CellEditor {
         l.getAllStyles().setFont(smallFont);
         return l;
     }
+
+    void prepareSmallLeap(Button buttonRenderer, BasicDate bd) {
+        if(bd.getCalendar().getMonthName(bd).isSmallLeap()){
+            buttonRenderer.getAllStyles().setBgColor(0xccffff);
+        }
+    }
 }

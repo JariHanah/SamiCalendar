@@ -195,6 +195,7 @@
             <entry key="defaultCity?" value="&#x627;&#x62e;&#x62a;&#x64a;&#x627;&#x631; &#x645;&#x62f;&#x64a;&#x646;&#x629; " />
             <entry key="missingLocation" value="&#x627;&#x644;&#x645;&#x648;&#x642;&#x639;" />
             <entry key="shortTuesday" value="&#x62b;&#x644;&#x62b;" />
+            <entry key="com.alhanah.sami.sami.luner.abr" value="&#x647;&#x633;" />
             <entry key="spring" value="&#x627;&#x644;&#x631;&#x628;&#x64a;&#x639;" />
             <entry key="com.alhanah.sami.ad.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f;&#x64a; &#x627;&#x644;&#x634;&#x627;&#x645;&#x644; &#x648;&#x627;&#x644;&#x630;&#x64a; &#x64a;&#x623;&#x62e;&#x630; &#x628;&#x627;&#x644;&#x627;&#x639;&#x62a;&#x628;&#x627;&#x631; &#x645;&#x627; &#x62d;&#x635;&#x644; &#x645;&#x646; &#x62a;&#x62d;&#x62f;&#x64a;&#x62b; &#x641;&#x64a; &#x639;&#x627;&#x645; 1582&#x60c; &#x648;&#x64a;&#x634;&#x645;&#x644; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x645;&#x64a;&#x644;&#x627;&#x62f; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
             <entry key="com.alhanah.sami.greg.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#GregorianCalendarDiskURL" />
@@ -215,6 +216,7 @@
             <entry key="com.alhanah.sami.qazwini.fajr.name" value="&#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a;" />
             <entry key="saratan" value="&#x633;&#x631;&#x637;&#x627;&#x646;" />
             <entry key="com.alhanah.sami.sami.fixed" value="&#x633;&#x627;&#x645;&#x64a; &#x647;&#x62c;&#x631;&#x64a; &#x642;" />
+            <entry key="com.alhanah.sami.sami.luner" value="&#x627;&#x644;&#x633;&#x627;&#x645;&#x64a; &#x627;&#x644;&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646;&#x64a;" />
             <entry key="com.alhanah.sami.qazwini.fajr.short" value="&#x647;&#x642;" />
             <entry key="notpurchased" value="&#x639;&#x631;&#x636;" />
             <entry key="safar2" value="&#x635;&#x641;&#x631; &#x62b;&#x627;&#x646;&#x64a;" />
@@ -307,6 +309,7 @@
             <entry key="thuraya" value="&#x627;&#x644;&#x62b;&#x631;&#x64a;&#x627;&#x621;" />
             <entry key="Friday" value="&#x627;&#x644;&#x62c;&#x645;&#x639;&#x629;" />
             <entry key="com.alhanah.sami.umalqura1423.desc" value="&#x62e;&#x62f;&#x645;&#x629; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x62a;&#x642;&#x648;&#x64a;&#x645; &#x623;&#x645; &#x627;&#x644;&#x642;&#x631;&#x649; &#x639;&#x644;&#x649; &#x645;&#x62f;&#x649; &#x642;&#x62f;&#x631;&#x629; &#x627;&#x644;&#x62c;&#x648;&#x627;&#x644; &#x633;&#x648;&#x627;&#x621; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x623;&#x648; &#x628;&#x639;&#x62f; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646;." />
+            <entry key="com.alhanah.sami.sami.luner.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ByroniCalendarDiscURL" />
             <entry key="purchases" value="&#x645;&#x643;&#x648;&#x646;&#x627;&#x62a; &#x625;&#x636;&#x627;&#x641;&#x64a;&#x629;" />
             <entry key="bolaa" value="&#x633;&#x639;&#x62f; &#x628;&#x644;&#x639;" />
             <entry key="com.alhanah.sami.qazwini.name" value="&#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x64a;" />
@@ -375,6 +378,7 @@
             <entry key="com.alhanah.sami.solarstations" value="&#x645;&#x646;&#x632;&#x644; &#x634;&#x645;&#x633;&#x64a;" />
             <entry key="com.alhanah.sami.qazwini.desc" value="&#x639;&#x631;&#x636; &#x627;&#x644;&#x62d;&#x635;&#x648;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x645;&#x62d;&#x645;&#x62f;&#x64a; &#x627;&#x644;&#x645;&#x635;&#x645;&#x645; &#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x633;&#x64a;&#x62f; &#x641;&#x631;&#x642;&#x62f; &#x627;&#x644;&#x642;&#x632;&#x648;&#x64a;&#x646;&#x64a; &#x627;&#x644;&#x645;&#x646;&#x634;&#x648;&#x631; &#x628;&#x637;&#x631;&#x64a;&#x642;&#x629; &#x62a;&#x641;&#x627;&#x639;&#x644;&#x64a;&#x629; &#x645;&#x639; &#x627;&#x644;&#x642;&#x62f;&#x631;&#x629; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x644;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x648;&#x645;&#x646; &#x642;&#x628;&#x644; &#x627;&#x644;&#x647;&#x62c;&#x631;&#x629; &#x628;&#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x625;&#x644;&#x649; &#x622;&#x644;&#x627;&#x641; &#x627;&#x644;&#x633;&#x646;&#x64a;&#x646; &#x645;&#x633;&#x62a;&#x642;&#x628;&#x644;&#x64a;&#x627; &#x645;&#x639; &#x633;&#x647;&#x648;&#x644;&#x629; &#x627;&#x644;&#x62a;&#x62d;&#x648;&#x64a;&#x644; &#x628;&#x64a;&#x646;&#x647; &#x648;&#x628;&#x64a;&#x646; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x622;&#x62e;&#x631;&#x649; &#x627;&#x644;&#x62a;&#x64a; &#x62d;&#x635;&#x644;&#x62a; &#x639;&#x644;&#x64a;&#x647;&#x627;. " />
             <entry key="com.alhanah.sami.blackmoon" value="&#x62f;&#x648;&#x631;&#x629; &#x627;&#x644;&#x645;&#x62d;&#x627;&#x642;" />
+            <entry key="com.alhanah.sami.sami.luner.name" value="&#x627;&#x644;&#x633;&#x627;&#x645;&#x64a; &#x627;&#x644;&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646;&#x64a;" />
             <entry key="com.alhanah.sami.umalqura1423.short" value="&#x647;&#x640;" />
             <entry key="june" value="&#x64a;&#x648;&#x646;&#x64a;&#x648;" />
             <entry key="visitHelpQuestion" value="&#x647;&#x644; &#x62a;&#x62d;&#x628; &#x627;&#x644;&#x62a;&#x648;&#x62c;&#x647; &#x644;&#x644;&#x642;&#x631;&#x627;&#x621;&#x629;  &#x639;&#x646; &#x647;&#x630;&#x647; &#x627;&#x644;&#x62a;&#x642;&#x627;&#x648;&#x64a;&#x645;&#x61f;" />
@@ -398,6 +402,7 @@
             <entry key="rjm" value="&#x631;&#x62c;&#x628; &#x645;" />
             <entry key="tvt" value="&#x62a;&#x641;&#x62a;" />
             <entry key="autumn" value="&#x627;&#x644;&#x62e;&#x631;&#x64a;&#x641;" />
+            <entry key="com.alhanah.sami.sami.luner.extra" value="&#x628;&#x627;&#x633;&#x62a;&#x62e;&#x62f;&#x627;&#x645; &#x62f;&#x648;&#x631;&#x629; &#x627;&#x644;&#x627;&#x642;&#x62a;&#x631;&#x627;&#x646;&#x60c; &#x647;&#x630;&#x627; &#x627;&#x644;&#x631;&#x627;&#x635;&#x62f; &#x64a;&#x639;&#x637;&#x64a;&#x643; &#x631;&#x635;&#x62f;&#x627; &#x644;&#x634;&#x647;&#x648;&#x631; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x633;&#x627;&#x645;&#x64a;." />
             <entry key="zabana" value="&#x627;&#x644;&#x632;&#x64a;&#x627;&#x646;&#x649;" />
             <entry key="july" value="&#x64a;&#x648;&#x644;&#x64a;&#x648;" />
             <entry key="changeLang" value="&#x62a;&#x63a;&#x64a;&#x64a;&#x631; &#x627;&#x644;&#x644;&#x63a;&#x629;" />
@@ -438,6 +443,7 @@
             <entry key="com.alhanah.sami.dayview.desc" value="&#x648;&#x627;&#x62c;&#x647;&#x629; &#x639;&#x631;&#x636; &#x62e;&#x627;&#x635;&#x629; &#x644;&#x631;&#x624;&#x64a;&#x629; &#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62a; &#x627;&#x644;&#x64a;&#x648;&#x645; &#x645;&#x639; &#x627;&#x644;&#x623;&#x62d;&#x62f;&#x627;&#x62b; &#x648;&#x645;&#x627; &#x64a;&#x648;&#x627;&#x641;&#x642;&#x647;&#x627; &#x628;&#x634;&#x643;&#x644; &#x62a;&#x641;&#x627;&#x639;&#x644;&#x64a;" />
             <entry key="com.alhanah.sami.newmoon.name" value="&#x62f;&#x648;&#x631;&#x629; &#x627;&#x644;&#x647;&#x644;&#x627;&#x644; &#x641;&#x64a; &#x645;&#x62f;&#x64a;&#x646;&#x62a;&#x643;" />
             <entry key="sonbola" value="&#x633;&#x646;&#x628;&#x644;&#x629;" />
+            <entry key="com.alhanah.sami.sami.luner.desc" value="&#x631;&#x627;&#x635;&#x62f; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x633;&#x627;&#x645;&#x64a;&#x60c; &#x645;&#x643;&#x648;&#x646; &#x625;&#x636;&#x627;&#x641;&#x64a; &#x64a;&#x62c;&#x639;&#x644; &#x627;&#x644;&#x62a;&#x642;&#x648;&#x64a;&#x645; &#x627;&#x644;&#x633;&#x627;&#x645;&#x64a; &#x64a;&#x648;&#x627;&#x641;&#x642; &#x62f;&#x648;&#x631;&#x629; &#x627;&#x642;&#x62a;&#x631;&#x627;&#x646; &#x627;&#x644;&#x642;&#x645;&#x631; &#x62d;&#x633;&#x628; &#x645;&#x643;&#x629;." />
             <entry key="z12s" value="&#x639;&#x642;&#x631;&#x628;" />
             <entry key="LC" value="&#x646;&#x632;&#x644;" />
             <entry key="sivan" value="&#x633;&#x64a;&#x641;&#x627;&#x646;" />
@@ -599,6 +605,7 @@
             <entry key="defaultCity?" value="Default City " />
             <entry key="missingLocation" value="Location" />
             <entry key="shortTuesday" value="T" />
+            <entry key="com.alhanah.sami.sami.luner.abr" value="HS" />
             <entry key="spring" value="Spring" />
             <entry key="com.alhanah.sami.ad.desc" value="This package includes the Jul/Greg Calendar that takes into consideration the 1582 event of changing Calendar systems. Historians will find this calendar as dates before 1582 uses the Julian System, while after they use the Gregorian. this will show this system as a one entry and makes conversions more easy." />
             <entry key="com.alhanah.sami.greg.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#GregorianCalendarDiskURL" />
@@ -619,6 +626,7 @@
             <entry key="com.alhanah.sami.qazwini.fajr.name" value="Mohammadi" />
             <entry key="saratan" value="Saratan" />
             <entry key="com.alhanah.sami.sami.fixed" value="Sami Hijri" />
+            <entry key="com.alhanah.sami.sami.luner" value="Sami Luner Based" />
             <entry key="com.alhanah.sami.qazwini.fajr.short" value="HQ" />
             <entry key="notpurchased" value="Upgrade" />
             <entry key="safar2" value="Safar II" />
@@ -711,6 +719,7 @@
             <entry key="thuraya" value="Althurayah" />
             <entry key="Friday" value="Friday" />
             <entry key="com.alhanah.sami.umalqura1423.desc" value="Get Um Alqura Full Capabilities to convert between this Calendar and to your toold set of other calendars you have already purchased, or what you have free." />
+            <entry key="com.alhanah.sami.sami.luner.url" value="https://www.alhanah.com/index.php/2020/09/19/%d8%b4%d8%b1%d8%ad-%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%88%d9%8a%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%a7%d9%86%d8%a9/#ByroniCalendarDiscURL" />
             <entry key="purchases" value="Extra Components" />
             <entry key="bolaa" value="Saad Bolaa" />
             <entry key="com.alhanah.sami.qazwini.name" value="Muhammadi Hijri" />
@@ -779,6 +788,7 @@
             <entry key="com.alhanah.sami.solarstations" value="Solar Stations" />
             <entry key="com.alhanah.sami.qazwini.desc" value="The Muhammadi Calendar, or better known as the Qazwini Calendar developebed by known current Shia Cleric and Scholar, &quot;Farqad Alqazwini&quot;. This package includes the ability to convert between this calendar and any available other without limit." />
             <entry key="com.alhanah.sami.blackmoon" value="Black Moon Cycle" />
+            <entry key="com.alhanah.sami.sami.luner.name" value="Luner Sami" />
             <entry key="com.alhanah.sami.umalqura1423.short" value="AH" />
             <entry key="june" value="June" />
             <entry key="visitHelpQuestion" value="Visit Ahanah.com to learn more about thiese calendars?" />
@@ -802,6 +812,7 @@
             <entry key="rjm" value="RjM" />
             <entry key="tvt" value="Tvt" />
             <entry key="autumn" value="Autumn" />
+            <entry key="com.alhanah.sami.sami.luner.extra" value="Luner Based Sami Calendar, this is a great utility to help followers of the moon phase for religious purposes, instead of using the regular Sami Standard for month lengths." />
             <entry key="zabana" value="Alzabana" />
             <entry key="july" value="July" />
             <entry key="changeLang" value="Change Language" />
@@ -842,6 +853,7 @@
             <entry key="com.alhanah.sami.dayview.desc" value="Shows a day view of an instant of time with all the calendars in the Hana Calendar." />
             <entry key="com.alhanah.sami.newmoon.name" value="Crescent age at Location" />
             <entry key="sonbola" value="Sonbolah" />
+            <entry key="com.alhanah.sami.sami.luner.desc" value="Add on with the ability to convert dates between this and all other calendars in your system, with no limit except phone range limit." />
             <entry key="z12s" value="Sco" />
             <entry key="LC" value="LC" />
             <entry key="sivan" value="Sivan" />

@@ -17,6 +17,7 @@ public interface BasicCalendar {
     public static final String SKU_FULL_VERSION = "com.alhanah.sami.full";
     public static final String SAMI_ID = "com.alhanah.sami.sami";
     public static final String SAMI_FIXED_ID="com.alhanah.sami.sami.fixed";
+    public static final String SAMI_LUNER_ID="com.alhanah.sami.sami.luner";
     public static final String GREG_ID = "com.alhanah.sami.greg";
     public static final String JULIAN_ID = "com.alhanah.sami.julian";
     public static final String JALALI_IR_ID="com.alhanah.jalili.ir";

@@ -67,11 +67,13 @@ public class CalendarFactory {
         addCalendar(new LunerLocationCalendar());
         addCalendar(new GenericLunerCalendar(new Omari30YearLoop(),new UmAlquraStandard()));
         addCalendar(new GenericLunerCalendar(new QazwiniCalendar(),new BlackFajrStandard()));
+        addCalendar(new GenericLunerCalendar(BasicCalendar.SAMI_LUNER_ID, "SH", new SamiFixed(),new BlackFajrStandard()));
         
     }
 
     public List<BasicCalendar> getCalendars() {
         List<BasicCalendar> cal = new ArrayList<BasicCalendar>();
+        cal.add(calMap.get(BasicCalendar.SAMI_LUNER_ID));
         cal.add(calMap.get(BasicCalendar.SAMI_FIXED_ID));
         cal.add(calMap.get(BasicCalendar.OMARI_ID_16));
         cal.add(calMap.get(BasicCalendar.AD_ID));

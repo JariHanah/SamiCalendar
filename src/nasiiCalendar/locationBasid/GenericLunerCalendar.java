@@ -35,12 +35,17 @@ public class GenericLunerCalendar extends LunerCalendar {
     private final LunerIdentifier lunerIdentifier;
 
     public GenericLunerCalendar(MyBasicCalendar b,LunerIdentifier li) {
-        super(li.getName(), li.getShortName(), b.getLongCycleTime(), b.getLongCycleYear(), b.getMatchTime(), b.getMatchYear());
+        this(li.getName(), li.getShortName(), b, li);//, b.getLongCycleYear(), b.getMatchTime(), b.getMatchYear());
+        
+    }
+    public GenericLunerCalendar(String name, String shName, MyBasicCalendar  b,LunerIdentifier li) {
+        super(name, shName, b.getLongCycleTime(), b.getLongCycleYear(), b.getMatchTime(), b.getMatchYear());
         calendar=b;
         //locationYear = new BasicYear("Luner Year", "Luner Year", false, false, new PeriodType[]{Months.MUHARRAM, Months.SAFAR, Months.RABEI1, Months.RABEI2, Months.JAMAD1, Months.JAMAD2,
           //  Months.RAJAB, Months.SHAABAN, Months.RAMADHAN, Months.SHAWWAL, Months.THO_QIDAH, Months.THO_HIJA});
         lunerIdentifier = li;
     }
+    
 
     public MoonPhase getPreviousPhase(long date) {
 
@@ -61,6 +66,7 @@ public class GenericLunerCalendar extends LunerCalendar {
         return days;
 
     }
+    
     /*
     @Override
     public BasicDate getDate(int y, int m, int d) {

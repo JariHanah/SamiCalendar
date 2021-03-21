@@ -34,7 +34,7 @@ public class QazwiniCalendar extends LunerCalendar{
                 Months.RAJAB, Months.THO_QIDAH, Months.ALHARAM, Months.THO_HIJA, Months.MUHARRAM, Months.SAFAR, Months.SHAABAN});
    final BasicYear Y13=new BasicYear("haram13", "haram13", false, true, new PeriodType[] {
                 Months.RAMADHAN, Months.SHAWWAL, Months.JAMAD1, Months.JAMAD2, Months.RABEI1, Months.RABEI2, 
-                Months.RAJAB, Months.THO_QIDAH, Months.THO_HIJA, Months.MUHARRAM, Months.SAFAR, Months.SHAABAN, Months.ALHARAM});
+                Months.RAJAB, Months.THO_QIDAH, Months.THO_HIJA, Months.MUHARRAM, Months.SAFAR, Months.ALHARAM, Months.SHAABAN});
    
     public QazwiniCalendar() {
         super(BasicCalendar.QAZWINI_ID, "QH", METONIC*8, 19*8, 1067201999999L, 1383);

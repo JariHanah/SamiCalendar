@@ -502,66 +502,67 @@ public class ATest {
 
         System.exit(0);
     }
-    
-    public static void printType(PeriodType p, String m){
-        System.err.println(m+ p.getTotalLengthInDays());
-        if(p instanceof PeriodStore){
-            PeriodStore ps=(PeriodStore) p;
-            int x=0;
-            for(PeriodType t:ps.getSubPeriods()){
-                if(t instanceof BasicYear){
-                    x+=t.getTotalLengthInDays();
+
+    public static void printType(PeriodType p, String m) {
+        System.err.println(m + p.getTotalLengthInDays());
+        if (p instanceof PeriodStore) {
+            PeriodStore ps = (PeriodStore) p;
+            int x = 0;
+            for (PeriodType t : ps.getSubPeriods()) {
+                if (t instanceof BasicYear) {
+                    x += t.getTotalLengthInDays();
                     //System.err.println(m+t.getTotalLengthInDays()+"\t"+x++);
-                }else{
-                    printType(t, m+"\t");
-                    
+                } else {
+                    printType(t, m + "\t");
+
                 }
-                
+
             }
-            System.err.println(m+"\t"+x);
+            System.err.println(m + "\t" + x);
         }
     }
+
     public static void testSamiFixed() {
         SamiCalendar s = (SamiCalendar) CalendarFactory.getInstance().getCalendar(BasicCalendar.SAMI_ID);
         SamiFixed f = (SamiFixed) CalendarFactory.getInstance().getCalendar(BasicCalendar.SAMI_FIXED_ID);
-      //  printType(f.store, "\t");
+        //  printType(f.store, "\t");
         System.exit(0);
         //  BasicDate b = f.getDate(1399, 9, 20);
         //    System.err.println("b: " + b);
-     //   System.err.println(f.getS.getSubPeriods().get(0).getSubPeriods());
-        double totalDays=0;
-        double totalDays2=0;
-        for (int i = 1; i < 353*1000; i++) {
+        //   System.err.println(f.getS.getSubPeriods().get(0).getSubPeriods());
+        double totalDays = 0;
+        double totalDays2 = 0;
+        for (int i = 1; i < 353 * 1000; i++) {
 
             BasicDate b = f.getDate(-105, i, 1);
             BasicDate bs = s.getDate(-105, i, 1);
-            totalDays+=f.getMonthLength(b);
-            totalDays2+=s.getMonthLength(bs);
-            double rate1=(totalDays/i-(double)MONTH/DAY);
-            double rate2=(totalDays2/i-(double)MONTH/DAY);
-            System.err.println((Math.min(Math.abs(rate1), Math.abs(rate2))==Math.abs(rate1)?"Yes":"No")+" Fixed: "+(totalDays-totalDays2)+" "+rate1+" cal:"+rate2);
-           // if (Math.abs(b.getDate() - bs.getDate() )>1*DAY) {
-                System.err.println(i+" "+i%353+" "+b.getCalendar().getYearType(b).isSmallLeap()+" "+b.getCalendar().getYearType(b)+" YL: " + b.getCalendar().getYearLength(b) + " ML:" + b.getCalendar().getMonthLength(b) + "\tSamiFixed: " + b);
-          //      System.err.println(bs.getCalendar().getYearType(bs)+" YL: " + bs.getCalendar().getYearLength(bs) + " ML:" + bs.getCalendar().getMonthLength(bs) + "\tSamiCal  : " + bs);
+            totalDays += f.getMonthLength(b);
+            totalDays2 += s.getMonthLength(bs);
+            double rate1 = (totalDays / i - (double) MONTH / DAY);
+            double rate2 = (totalDays2 / i - (double) MONTH / DAY);
+            System.err.println((Math.min(Math.abs(rate1), Math.abs(rate2)) == Math.abs(rate1) ? "Yes" : "No") + " Fixed: " + (totalDays - totalDays2) + " " + rate1 + " cal:" + rate2);
+            // if (Math.abs(b.getDate() - bs.getDate() )>1*DAY) {
+            System.err.println(i + " " + i % 353 + " " + b.getCalendar().getYearType(b).isSmallLeap() + " " + b.getCalendar().getYearType(b) + " YL: " + b.getCalendar().getYearLength(b) + " ML:" + b.getCalendar().getMonthLength(b) + "\tSamiFixed: " + b);
+            //      System.err.println(bs.getCalendar().getYearType(bs)+" YL: " + bs.getCalendar().getYearLength(bs) + " ML:" + bs.getCalendar().getMonthLength(bs) + "\tSamiCal  : " + bs);
             //    System.err.println("\t"+b.getCalendar().getYearLength(b));
-              //  System.err.println("\t"+bs.getCalendar().getYearLength(bs));
+            //  System.err.println("\t"+bs.getCalendar().getYearLength(bs));
             //  System.err.println("");
-           // }
+            // }
 
         }
-        long t=s.getDate(1, 1, 1).getDate();
+        long t = s.getDate(1, 1, 1).getDate();
         for (int i = 1; i < 1; i++) {
 
             BasicDate b = f.getDate(t);
             BasicDate bs = s.getDate(t);
             //if (Math.abs(b.getDate() - bs.getDate() )>1*DAY) {
-                System.err.println(b.getCalendar().getYearType(b).isSmallLeap()+" "+b.getCalendar().getYearType(b)+" YL: " + b.getCalendar().getYearLength(b) + " ML:" + b.getCalendar().getMonthLength(b) + "\tSamiFixed: " + b);
-                System.err.println(bs.getCalendar().getYearType(bs)+" YL: " + bs.getCalendar().getYearLength(bs) + " ML:" + bs.getCalendar().getMonthLength(bs) + "\tSamiCal  : " + bs);
+            System.err.println(b.getCalendar().getYearType(b).isSmallLeap() + " " + b.getCalendar().getYearType(b) + " YL: " + b.getCalendar().getYearLength(b) + " ML:" + b.getCalendar().getMonthLength(b) + "\tSamiFixed: " + b);
+            System.err.println(bs.getCalendar().getYearType(bs) + " YL: " + bs.getCalendar().getYearLength(bs) + " ML:" + bs.getCalendar().getMonthLength(bs) + "\tSamiCal  : " + bs);
             //    System.err.println("\t"+b.getCalendar().getYearLength(b));
-              //  System.err.println("\t"+bs.getCalendar().getYearLength(bs));
-              System.err.println("");
+            //  System.err.println("\t"+bs.getCalendar().getYearLength(bs));
+            System.err.println("");
             //}
-            t+=DAY*366;
+            t += DAY * 366;
 
         }
         System.exit(0);
@@ -576,77 +577,117 @@ public class ATest {
         System.exit(0);
     }
 
-    static void testNewMoon2(){
-        MoonPhase mp= MoonPhase.compute().on(new Date()).execute();
+    static void testNewMoon2() {
+        MoonPhase mp = MoonPhase.compute().on(new Date()).execute();
         System.err.println(mp);
-        Date d=new Date();
-        Calendar c=Calendar.getInstance();
+        Date d = new Date();
+        Calendar c = Calendar.getInstance();
         c.setTime(d);
         System.err.println(Arrays.asList(TimeZone.getAvailableIDs()));
         System.err.println(Arrays.asList(TimeZone.getDefault()));
-        System.err.println(10800000/MINUTE);
+        System.err.println(10800000 / MINUTE);
         c.setTimeZone(TimeZone.getTimeZone("us"));
         System.err.println(c.getTime());
         System.exit(0);
     }
-    public static void testGeneric(){
-        LunerIdentifier l=new UmAlquraStandard();
-        GenericLunerCalendar cal=new GenericLunerCalendar(new Omari30YearLoop(), l);
-        long start=new Date().getTime();
-        BasicDate prev=null;
-        for(int i=0;i<1000;i++){
-            
-            BasicDate b1=cal.getDate(start+i*DAY);
-            if(b1.equals(prev))continue;
+
+    public static void testGeneric() {
+        LunerIdentifier l = new UmAlquraStandard();
+        GenericLunerCalendar cal = new GenericLunerCalendar(new Omari30YearLoop(), l);
+        long start = new Date().getTime();
+        BasicDate prev = null;
+        for (int i = 0; i < 1000; i++) {
+
+            BasicDate b1 = cal.getDate(start + i * DAY);
+            if (b1.equals(prev)) {
+                continue;
+            }
             System.err.println(b1);
             prev = b1;
         }
-        start=start-100*DAY;
-        long p1=0;
-        for(int i=0;i<1000;i++){
-            
-            long b1=l.getNextMonth(start+i*DAY);
-            if(b1==p1)continue;
-            System.err.println(new Date(b1) +"\t" +(b1-p1)/DAY);
+        start = start - 100 * DAY;
+        long p1 = 0;
+        for (int i = 0; i < 1000; i++) {
+
+            long b1 = l.getNextMonth(start + i * DAY);
+            if (b1 == p1) {
+                continue;
+            }
+            System.err.println(new Date(b1) + "\t" + (b1 - p1) / DAY);
             p1 = b1;
         }
-        
-        
+
         System.exit(0);
     }
-    public static void testFajr(){
-        BlackFajrStandard f=new BlackFajrStandard();
-        GenericLunerCalendar g=new GenericLunerCalendar(new QazwiniCalendar(), f);
-        long month=g.getDate(1399, 1, 1).getDate();
-        long tempMonth=month;
-        for(int i=0;i<2000;i++){
-            long nm=f.getPreviousMonth(month+i*DAY);
-            BasicDate d1=g.getDate(1399, 1, i+1);
-            BasicDate c1=g.getDate(month+i*DAY);
-            
-            
-        //    System.err.println(i+" calc:"+c1+" "+g.getMonthLength(c1)+"\tWritten"+d1+" "+g.getMonthLength(d1)+"\t"+((d1.getDate()==c1.getDate())?"":"WRONG"));
+
+    public static void testFajr() {
+        BlackFajrStandard f = new BlackFajrStandard();
+        GenericLunerCalendar g = new GenericLunerCalendar(new QazwiniCalendar(), f);
+        long month = g.getDate(1399, 1, 1).getDate();
+        long tempMonth = month;
+        for (int i = 0; i < 2000; i++) {
+            long nm = f.getPreviousMonth(month + i * DAY);
+            BasicDate d1 = g.getDate(1399, 1, i + 1);
+            BasicDate c1 = g.getDate(month + i * DAY);
+
+            //    System.err.println(i+" calc:"+c1+" "+g.getMonthLength(c1)+"\tWritten"+d1+" "+g.getMonthLength(d1)+"\t"+((d1.getDate()==c1.getDate())?"":"WRONG"));
             CalendarFactory.test(d1);
             CalendarFactory.test(c1);
-            
-            tempMonth=nm;
+
+            tempMonth = nm;
         }
-        
-       // System.exit(0);
+
+        // System.exit(0);
     }
+    static BasicCalendar ad = CalendarFactory.getInstance().getCalendar(BasicCalendar.AD_ID);
+
+    static void printWasmi(BasicDate bd) {
+        BasicDate a = ad.getDate(bd.getDate());
+        int monthLength = bd.getCalendar().getMonthLength(bd);
+        String weekDay = CalendarFactory.getWeekDay(bd);
+
+        System.err.println(
+                a.getYear() + "\t"
+                + a.getMonth() + "\t"
+                + a.getDay() + "\t"
+                + monthLength + "\t"
+                + bd.getCalendar().getMonthName(bd)+"\t"
+                + weekDay + "\t"
+                + bd.getYear() + "\t"
+                + bd.getMonth() + "\t"
+                + bd.getDay() + "\t"
+                + bd);
+    }
+
+    public static void printWasmi() {
+        BasicCalendar cal = CalendarFactory.getInstance().getCalendar(BasicCalendar.SAMI_LUNER_ID);
+
+        for (int i = -105; i < 1600; i++) {
+
+            BasicDate bd = cal.getDate(i, 1, 1);
+            int size=bd.getCalendar().getYearType(bd).getSubPeriods().size();
+            for (int o = 0; o < size; o++) {
+                bd = cal.getDate(i, o+1, 1);
+                
+                printWasmi(bd);
+            }
+        }
+        System.exit(0);
+    }
+
     public static void test() {
+     //   printWasmi();
         // testFajr();
         // testGeneric();
-        
+
         //    testcorrelation(); 
         //   testNewMoonFullYear();
         //    testFirstMoon();
-    //    testSamiFixed();
+        //    testSamiFixed();
         //      test16();
 //    testOmari();
         //   testJalali();
         //       testNewMoon();
-
         // System.exit(0);
         //   testLunerLocationCalendar();
         //   testMovements();
@@ -655,7 +696,6 @@ public class ATest {
         //    testYearLength();
         //      System.exit(0);
         //    testAdjustedDate();
-       
         // System.exit(0);
     }
 

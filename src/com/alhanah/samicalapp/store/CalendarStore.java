@@ -112,7 +112,7 @@ public class CalendarStore {
     }
 
     private void fillMaps() {
-
+        addItem("Sami");
         addItem(SKU_FULL_VERSION);
         addItem(BasicCalendar.SAMI_FIXED_ID);
         addItem(AD_ID);
